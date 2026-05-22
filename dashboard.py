@@ -104,7 +104,7 @@ div[data-testid="stDateInput"],div[data-testid="stSelectbox"]{margin-top:0 !impo
 components.html("<script>(function(){document.body.style.zoom='0.85';})();</script>", height=0)
 
 # ── Paths & defaults ──────────────────────────────────────────────────────────
-BASE = r"C:\Users\ELCOT\Desktop\Aivar\Dataset"
+BASE = r"output"
 OUT  = os.path.join(BASE, "output")
 PATHS = {"merged":  os.path.join(OUT,"merged"),
          "signals": os.path.join(OUT,"signals"),
