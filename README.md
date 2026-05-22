@@ -98,16 +98,16 @@ Shows quick summary metrics like:
 - Best indicator
 
 ### Sentiment vs Price
-1. Shows how stock close price moves with sentiment over time.
+- Shows how stock close price moves with sentiment over time.
 
 ### Broker Outage Panic
-1. Highlights major Indian broker outage events and market panic behavior.
+- Highlights major Indian broker outage events and market panic behavior.
 
 ### Correlation Heatmap
-1. Summarizes how sentiment relates to returns across stocks and time windows.
+- Summarizes how sentiment relates to returns across stocks and time windows.
 
 ### Findings per Stock
-1. Gives a short interpretation for each stock based on the correlation results.
+- Gives a short interpretation for each stock based on the correlation results.
 ---
 ## Why Weekly Analysis?
 
