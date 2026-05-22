@@ -1,0 +1,263 @@
+Company Name,Symbol,Headline,Date,Original_Sentiment,Ticker,VADER_Score,VADER_Label,Is_Hindi
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel Q2 FY25 net profit jumps 168% YoY to Rs 3,593 crore",2024-10-28,Neutral,BHARTIARTL,0.6404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Jio, Airtel, Vi continue to suffer customer losses for a third time",2024-11-21,Neutral,BHARTIARTL,-0.7351,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Elon Musk battles Mukesh Ambani over India's satellite internet,2024-10-28,Neutral,BHARTIARTL,-0.3818,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Forced offline: the Q3 2024 Internet disruption summary,2024-10-29,Negative,BHARTIARTL,-0.7184,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Voda Idea Q2 loss narrows to Rs 7,176 crore",2024-11-13,Neutral,BHARTIARTL,-0.5182,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,8 of top 10 most-valued firms lose nearly Rs 2 lakh crore in m-cap,2024-11-18,Neutral,BHARTIARTL,-0.2263,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel revenues likely to grow 13-16% through FY27,2024-11-04,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Telecom buys 1.2% stake in Airtel from familyâ€™s investment firm,2024-11-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Earnings Call: Airtel to shift its fixed wireless service to a standalone 5G by December,2024-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Earnings Report: Airtel posts a 168% rise in net income in Q2FY25, loses 2.8 mil subscribers",2024-10-29,Negative,BHARTIARTL,-0.1182,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Philippine Tycoon Joselito Campos, India Billionaire Sunil Mittal Revamp Del Monte India",2024-11-18,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Afcons Infrastructure IPO subscribed 76% so far on last day of bidding. Check GMP, details",2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,[Removed],2024-10-25,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Reliance Jio True 5G Network Extends Battery Life by Up to 40 Percent, Claims Official",2024-11-12,Neutral,BHARTIARTL,0.5106,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,UNICEF initiative connects 9m youth to livelihood opportunities,2024-11-15,Neutral,BHARTIARTL,0.5267,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"TRAI monthly data: BSNL gains subscribers in August on losses of Airtel, RJio, VIL",2024-10-25,Negative,BHARTIARTL,-0.0772,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Top picks! HDFC Bank, SBI among 8 largecap stocks that can rally up to 31%",2024-11-06,Neutral,BHARTIARTL,0.4714,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"36,995 Borno learners enroll in learning passport, says UNICEF",2024-11-04,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Truecaller Names India MD Rishit Jhunjhunwala as Global CEO,2024-11-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Sensex jumps 448 points, Nifty surges above 24,300 in Muhurat session",2024-11-01,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"M-cap of nine of the top 10 most valued firms plunges Rs 2 lakh crore as Sensex, Nifty tumble",2024-10-28,Negative,BHARTIARTL,0.7713,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Vodafone Idea loss narrows to Rs 7,176 cr in Q2",2024-11-13,Neutral,BHARTIARTL,-0.5182,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Gopal Vittal at Airtel: A stint of multiple challenges, in charts",2024-11-04,Neutral,BHARTIARTL,0.0772,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia Wins Multi-Billion Dollar Deal To Power Airtel's 4G And 5G Expansion In India,2024-11-20,Positive,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,BSNL gains subscribers as private telcos lose users,2024-10-25,Negative,BHARTIARTL,-0.0772,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"FII action, Waaree Energies IPO listing and 5 more factors that will steer D-Street this week",2024-10-28,Negative,BHARTIARTL,0.2263,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Opinion: On Starlinkâ€™s entry into India, satcom spectrum and auctions",2024-11-21,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Jioâ€™s Legal Push: Justice Rao calls out TRAIâ€™s satcom consultation for lack of consideration for level playing field,2024-11-07,Neutral,BHARTIARTL,0.5267,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Musk, Bezosâ€™ satcom firms push for 1% spectrum charges",2024-10-28,Negative,BHARTIARTL,-0.2732,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Sensex, Nifty rise on buying in bank stocks, positive global cues",2024-10-29,Negative,BHARTIARTL,0.943,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Q2 results: Bharti Airtel, Maruti Suzuki, Suzlon Energy, L&T among companies to declare earnings next week",2024-10-28,Negative,BHARTIARTL,0.2732,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Top 10 companies see valuation slump â‚¹1.55 crore, Reliance Industries biggest laggard & TCS biggest gainer",2024-11-11,Neutral,BHARTIARTL,0.0023,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Not going to take anything outside Bharti group, says Gopal Vittal",2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Indiaâ€™s Telecom Regulatorâ€™s Spam Rules Lead to a 20% Drop in Complaints in Just Two Months,2024-11-21,Neutral,BHARTIARTL,-0.943,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Stocks in news: Tata Investment, Narayana Hrudalaya, Hero MotoCorp, Bharti Airtel, Alembic Pharma",2024-11-01,Neutral,BHARTIARTL,0.5574,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel renews 4G, 5G contracts with Nokia",2024-11-20,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Telecom hikes stake in Airtel to 40.33%,2024-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Japan's Rakuten best on Open RAN, Gen AI solutions for India growth",2024-11-21,Neutral,BHARTIARTL,1.0,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Starlink addressing govt concerns for India operations: Jyotiraditya Scindia,2024-11-12,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel gives 4G, 5G gear extention deal to Nokia",2024-11-20,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Markets surge higher led by metal, banking stocks; Sensex up 684 points",2024-11-05,Negative,BHARTIARTL,0.2,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel rolls out 4G network in Galwan, Daulat Beg Oldie",2024-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Starlink debunks arguments on predatory pricing of next-gen systems at TRAI open house,2024-11-08,Neutral,BHARTIARTL,-0.4019,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Except for BSNL, telcos Jio, Airtel and Vi lose subscribers due to tariff hikes in August",2024-10-25,Negative,BHARTIARTL,-0.4019,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel announces management rejig effective January 2026,2024-10-28,Neutral,BHARTIARTL,0.4767,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel Q2 profit surges 168% on higher tariffs,2024-10-28,Neutral,BHARTIARTL,0.6404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Singtel's stake in Airtel rises, Mittals' falls after Bharti telecom deal",2024-11-08,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Sandip Sabharwal sees limited downside for Nifty, Sensex despite US election-driven uncertainty",2024-11-04,Positive,BHARTIARTL,0.011,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,S&P Global revises Bharti Airtel outlook to 'positive',2024-11-22,Neutral,BHARTIARTL,0.5574,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Military bursts kidnap syndicate, arrests three suspects in Taraba",2024-10-29,Negative,BHARTIARTL,-0.6486,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,"Elon Musk backs India's spectrum allocation for satellite broadband: A win for Starlink, a blow to Jio and Airtel?",2024-11-08,Neutral,BHARTIARTL,0.5574,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Plan afoot for Singtel, Mittals to equalise direct stake in Bharti Airtel",2024-11-19,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Vodafone Idea estimates reversal in subscriber loss by the end of FY25,2024-11-14,Neutral,BHARTIARTL,-0.5182,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Government permits internet through Wi-Fi in air travel,2024-11-04,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"7 at 7: Nvidia earnings, Trumpâ€™s military push, easier gold loans, Meta fine, more",2024-11-19,Positive,BHARTIARTL,0.5574,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel to move to 5G SA mode in 3-4 years,2024-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Bharti Airtel sees minimal impact from July tariff hike, says CEO",2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Mcap of 6 of top-10 most valued firms jump Rs 1 lakh cr; State Bank, ICICI Bank top gainers",2024-11-04,Neutral,BHARTIARTL,0.6115,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Hot Stocks: Brokerage view on Bharti Airtel, Macrotech Developers, BPCL, Federal Bank and Sun Pharma",2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Celebrate this festive season #DilKholKar with Airtel,2024-10-29,Negative,BHARTIARTL,0.7717,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Buy Bharti Airtel, target price Rs 1,900: Motilal Oswal Financial Services",2024-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares in focus as co awards multi-billion extension deal to Nokia,2024-11-21,Neutral,BHARTIARTL,0.6369,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,[Removed],2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel expands with AI data centres and high-altitude network, shares rise",2024-11-06,Neutral,BHARTIARTL,0.5818,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Plan afoot for Singtel, Mittals to equalise direct stake in Bharti Airtel",2024-11-19,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Video: Telcos vs Starlink and Kuiper: Hereâ€™s a lowdown of the satcom spectrum allocation debate,2024-11-21,Neutral,BHARTIARTL,-0.2023,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Q2 preview: Consolidated net profit expected to grow multifold,2024-10-28,Neutral,BHARTIARTL,0.6404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Buy Bharti Airtel, target price Rs 1,880: Axis Securities",2024-11-08,Neutral,BHARTIARTL,0.296,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Stocks that will see action today: November 7,2024-11-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel Payments Bank Q2 net up 45% at â‚¹11.2 crore, revenue up 58%",2024-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel shares dip despite 168% Q2 profit surge; Net profit slips 13.6%,2024-10-29,Negative,BHARTIARTL,0.8007,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Closer to their tech dreams: 276 students selected for Bharti Airtel scholarship,2024-11-22,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,[Removed],2024-11-19,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,BSNL sees a 25.8% spike in wireless subscribers as competitors hike tariffs: TRAI monthly data,2024-10-29,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Nxtra to set up a 200 MW data centre in Hyderabad,2024-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Nxtra to set up a 200 MW data centre in Hyderabad,2024-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtelâ€™s new MD & CEO has spearheaded multiple innovations,2024-10-28,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Telecom giants clash over spectrum allocation and pricing of Satcom,2024-11-08,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Starlink and Telcos debate level playing field issues between telecom and satcom in TRAI consultation,2024-11-11,Neutral,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Stocks in news: Airtel, Vedanta, Godfrey Phillips, UPL, Adani Enterprises",2024-11-21,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Elon Muskâ€™s broadband ambitions in India: Why Jio and Airtel are feeling the heat,2024-11-08,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Redmi A4 5G Does Not Support Airtelâ€™s 5G Network, Compatible With Jio 5G",2024-11-22,Neutral,BHARTIARTL,-0.3089,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Rural base station operations cost 35% more â€“ Telcos,2024-11-25,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Relief for Airtel, Vodafone, Tata Tele as Supreme Court grants tax credit on infra items",2024-11-20,Positive,BHARTIARTL,0.8807,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares fall 3% on posting strong Q2 earnings but below Street's estimates,2024-10-29,Negative,BHARTIARTL,0.4118,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Bharti Airtel Q2 Results: Profit shoots up 168% on strong ARPU growth, subscriber adds",2024-10-28,Neutral,BHARTIARTL,1.0,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel grants Nokia multi-billion 4G and 5G network expansion deal; aims to strengthen capacity and coverage,2024-11-20,Positive,BHARTIARTL,0.4939,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel Africa Plc Announces Dividend of $0.03 (LON:AAF),2024-10-25,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Bharti Telecom to raise Rs 11,150 crore through NCDs",2024-10-31,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia wins 'multi-billion' dollar deal in India,2024-11-20,Positive,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Airtel Q2 net up 168%, announces roadmap for leadership transition",2024-10-28,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,BSNL wins customers for 2nd consecutive month in September,2024-11-21,Neutral,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Bharti Airtel Q2 results: Net profit rises 168% to â‚¹3,593 crore, revenue up 12%",2024-10-28,Neutral,BHARTIARTL,0.6404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Brokerages tweak model portfolios on lackluster Q2 earnings, list top stocks to buy",2024-11-20,Positive,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Bharti Airtel, Jio Fin among other telecos in focus as TRAI releases subscriber data",2024-11-22,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Q2 Results Live: Profit Rises by 168.01% YoY,2024-10-29,Negative,BHARTIARTL,0.6404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares in focus after telco posts strong Q2 earnings but below Street's estimates,2024-10-29,Negative,BHARTIARTL,0.6118,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,"Indiaâ€™s Broadband Subscriptions Drop to 944.4M in September, Marking 2024â€™s First Decline",2024-11-22,Neutral,BHARTIARTL,-0.6732,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia wins multi-billion 5G extension deal from Bharti Airtel for its India operations,2024-11-20,Positive,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Nigeriaâ€™s internet consumption drops first time in seven months,2024-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,"Nokia wins multi-billion deal from Airtel to deploy 4G, 5G equipment across India",2024-11-20,Positive,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,OneWeb India gets green light to launch satellite broadband services,2023-11-21,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel Uganda undersubscribed NSSF becomes second largest shareholder,2023-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Reliance Industries leads as nine of India's top firms see market value surge,2023-11-06,Neutral,BHARTIARTL,0.6939,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian markets decline amid weak Chinese data and US interest rate anticipation,2023-11-01,Neutral,BHARTIARTL,-0.272,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,RIL and ONGC impacted by increased windfall gains tax Indian market indices expected to start lower,2023-11-01,Neutral,BHARTIARTL,0.3182,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Tata Consumer and GAIL India draw buy ratings JSPL underperforms,2023-11-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India's Sensex and Nifty 50 experience midday rise,2023-10-30,Neutral,BHARTIARTL,0.6019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Sun Pharma Tata Motors Adani Power among others to reveal Q2 earnings,2023-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Qualcomm Partners With Indian Entities For Snapdragon X Elite Chip and 6G Network Development,2023-10-27,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Enterprises Set to Become Sole Owner of Bharti Axa Life Insurance,2023-10-13,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA upgrades India's regional allocation favoring equities amid economic upswing,2023-10-11,Neutral,BHARTIARTL,0.4215,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel eyes $1 billion raise to cut debt boost 5G rollout,2023-11-21,Neutral,BHARTIARTL,-0.2263,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Nifty companies report robust earnings Coal India EPS forecast surges,2023-11-16,Positive,BHARTIARTL,0.8249,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Market valuation of top Indian firms sees mixed results amid global economic shifts,2023-11-13,Neutral,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Kotak Consumption Fund capitalizes on India's growing economy,2023-11-07,Neutral,BHARTIARTL,0.1779,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel: JPM raises to â€˜overweightâ€™ sees stronger earnings,2024-05-16,Neutral,BHARTIARTL,0.3818,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-02-07,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia to revamp Airtel's India network for 5G and broadband boost,2023-11-21,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel gears up for Bharti Hexacom IPO early next year,2023-11-22,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian DTH operators see revenue decline pivot to digital strategies,2023-11-23,Positive,BHARTIARTL,-0.2,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA recommends Bharti Airtel and RIL shares ahead of RJio IPO,2023-11-23,Positive,BHARTIARTL,0.4767,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-12,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.07%,2024-07-02,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares target raised by Nomura on industry outlook,2024-07-01,Neutral,BHARTIARTL,0.296,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-01-29,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.62%,2024-06-26,Negative,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India kicks off $11.5 billion spectrum auction; analysts expect lacklustre bidding,2024-06-25,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.28%,2024-06-21,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-10,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-05-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel introduces new prepaid plans with streaming perks to compete in India's telecom market,2023-12-04,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-01-12,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.14%,2024-06-28,Negative,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,IndiGo Airlines increases Airbus order; other stocks in focus,2023-09-04,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-28,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Jefferies raises Bharti Airtel stock target maintains buy,2024-06-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.03%,2024-07-29,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 1.82%,2024-07-26,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-07-15,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Apple eyes bigger slice of India's streaming music market with Airtel deal,2024-08-28,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Singtel profit soars 43% shares jump,2024-08-15,Neutral,BHARTIARTL,0.8249,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-09,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.81%,2024-08-08,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-09-11,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.42%,2024-09-10,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares see 71% upside potential Goldman Sachs lifts price target,2024-09-06,Positive,BHARTIARTL,0.496,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India's market outlook improves CLSA raises allocation to 20% 'overweight',2023-10-11,Neutral,BHARTIARTL,0.0772,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,HDFC Bank set to receive $600m inflow due to Sensex FTSE rejig,2023-09-08,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,IDEMIA collaborates with Airtel Payments Bank and HMD Global to expand offline CBDC payments in India,2023-09-06,Positive,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Stocks to watch as Hero MotoCorp invests in Ather Energy Cipla South Africa acquires Actor Pharma,2023-09-04,Positive,BHARTIARTL,0.6908,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,JPMorgan sees Bharti Airtel stock upside on strong tariff execution stable user base,2024-09-11,Neutral,BHARTIARTL,1.0,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel stock sees downgrade from ICICI cites mixed financials,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 1.35%,2024-08-07,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian equity indices decline for third day amid global market downturn,2023-09-21,Neutral,BHARTIARTL,-0.2,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.14%,2024-08-28,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,IndiGo Airlines increases Airbus order; other stocks in focus,2023-09-04,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Stocks to watch as Hero MotoCorp invests in Ather Energy Cipla South Africa acquires Actor Pharma,2023-09-04,Positive,BHARTIARTL,0.6908,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,IDEMIA collaborates with Airtel Payments Bank and HMD Global to expand offline CBDC payments in India,2023-09-06,Positive,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,HDFC Bank set to receive $600m inflow due to Sensex FTSE rejig,2023-09-08,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian equity indices decline for third day amid global market downturn,2023-09-21,Neutral,BHARTIARTL,-0.2,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,India's market outlook improves CLSA raises allocation to 20% 'overweight',2023-10-11,Neutral,BHARTIARTL,0.0772,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares see 71% upside potential Goldman Sachs lifts price target,2024-09-06,Positive,BHARTIARTL,0.496,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.42%,2024-09-10,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-09-11,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,JPMorgan sees Bharti Airtel stock upside on strong tariff execution stable user base,2024-09-11,Neutral,BHARTIARTL,1.0,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.81%,2024-08-08,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-09,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Singtel profit soars 43% shares jump,2024-08-15,Neutral,BHARTIARTL,0.8249,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Apple eyes bigger slice of India's streaming music market with Airtel deal,2024-08-28,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-07-15,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 1.82%,2024-07-26,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.03%,2024-07-29,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Jefferies raises Bharti Airtel stock target maintains buy,2024-06-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-28,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-01-12,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-01-29,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-02-07,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel: JPM raises to â€˜overweightâ€™ sees stronger earnings,2024-05-16,Neutral,BHARTIARTL,0.3818,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Kotak Consumption Fund capitalizes on India's growing economy,2023-11-07,Neutral,BHARTIARTL,0.1779,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Market valuation of top Indian firms sees mixed results amid global economic shifts,2023-11-13,Neutral,BHARTIARTL,0.2023,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Nifty companies report robust earnings Coal India EPS forecast surges,2023-11-16,Positive,BHARTIARTL,0.8249,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.14%,2024-06-28,Negative,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA upgrades India's regional allocation favoring equities amid economic upswing,2023-10-11,Neutral,BHARTIARTL,0.4215,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel stock sees downgrade from ICICI cites mixed financials,2024-08-07,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 1.35%,2024-08-07,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.14%,2024-08-28,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel eyes $1 billion raise to cut debt boost 5G rollout,2023-11-21,Neutral,BHARTIARTL,-0.2263,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-09-06,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian earnings growth expected to be at 3-year low says Morgan Stanley,2024-10-09,Neutral,BHARTIARTL,0.328,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel stock sees upside on rising 5G and broadband growth says HSBC,2024-10-15,Negative,BHARTIARTL,0.7818,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA keeps Bharti Airtel shares at Outperform with INR1820 target,2024-10-28,Neutral,BHARTIARTL,0.296,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia wins 'multi-billion' dollar deal in India,2024-11-20,Neutral,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.01%,2024-12-10,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.01%,2024-12-10,Positive,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia wins 'multi-billion' dollar deal in India,2024-11-20,Neutral,BHARTIARTL,0.5719,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Asia stocks muted with tech earnings in focus; Japan extends gains,2024-10-28,Neutral,BHARTIARTL,0.4404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA keeps Bharti Airtel shares at Outperform with INR1820 target,2024-10-28,Neutral,BHARTIARTL,0.296,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel stock sees upside on rising 5G and broadband growth says HSBC,2024-10-15,Negative,BHARTIARTL,0.7818,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian earnings growth expected to be at 3-year low says Morgan Stanley,2024-10-09,Neutral,BHARTIARTL,0.328,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-09-06,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Hexacom receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Asia stocks muted with tech earnings in focus; Japan extends gains,2024-10-28,Neutral,BHARTIARTL,0.4404,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-12,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Enterprises Set to Become Sole Owner of Bharti Axa Life Insurance,2023-10-13,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Qualcomm Partners With Indian Entities For Snapdragon X Elite Chip and 6G Network Development,2023-10-27,Negative,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Sun Pharma Tata Motors Adani Power among others to reveal Q2 earnings,2023-10-30,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India's Sensex and Nifty 50 experience midday rise,2023-10-30,Neutral,BHARTIARTL,0.6019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-08-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,RIL and ONGC impacted by increased windfall gains tax Indian market indices expected to start lower,2023-11-01,Neutral,BHARTIARTL,0.3182,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian markets decline amid weak Chinese data and US interest rate anticipation,2023-11-01,Neutral,BHARTIARTL,-0.272,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Reliance Industries leads as nine of India's top firms see market value surge,2023-11-06,Neutral,BHARTIARTL,0.6939,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel Uganda undersubscribed NSSF becomes second largest shareholder,2023-11-06,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,OneWeb India gets green light to launch satellite broadband services,2023-11-21,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Nokia to revamp Airtel's India network for 5G and broadband boost,2023-11-21,Neutral,BHARTIARTL,0.4019,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel gears up for Bharti Hexacom IPO early next year,2023-11-22,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Indian DTH operators see revenue decline pivot to digital strategies,2023-11-23,Positive,BHARTIARTL,-0.2,Negative,0
+Bharti Airtel Ltd.,BHARTIARTL,Tata Consumer and GAIL India draw buy ratings JSPL underperforms,2023-11-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Airtel introduces new prepaid plans with streaming perks to compete in India's telecom market,2023-12-04,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,CLSA recommends Bharti Airtel and RIL shares ahead of RJio IPO,2023-11-23,Positive,BHARTIARTL,0.4767,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.07%,2024-07-02,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel shares target raised by Nomura on industry outlook,2024-07-01,Neutral,BHARTIARTL,0.296,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-07-01,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India kicks off $11.5 billion spectrum auction; analysts expect lacklustre bidding,2024-06-25,Positive,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks lower at close of trade; Nifty 50 down 0.28%,2024-06-21,Neutral,BHARTIARTL,0.128,Positive,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-06-10,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,Bharti Airtel Ltd receives Investment Bank Analyst Rating Update,2024-05-27,Neutral,BHARTIARTL,0.0,Neutral,0
+Bharti Airtel Ltd.,BHARTIARTL,India stocks higher at close of trade; Nifty 50 up 0.62%,2024-06-26,Negative,BHARTIARTL,0.4019,Positive,0
+,,"Airtel ने लॉन्च किया जबरदस्त ऑफर, अब यूजर्स को मिलेगा Apple Music का फ्री एक्सेस, जानें पूरी डिटेल",2025-08-18,,BHARTIARTL,0.0,Neutral,1
+,,"Airtel ने Google Cloud के साथ मिलाया हाथ, AI पर होगा ध्यान",2024-05-13,,BHARTIARTL,0.0,Neutral,1
+,,"Telecom Industry के AGR में दिखी ग्रोथ, Jio-Airtel का रहा हाथ, VI में दिखी गिरावट",2024-04-23,,BHARTIARTL,0.0,Neutral,1
+,,"Airtel के कारोबार में ग्रोथ की उम्मीद, शेयर में दिख सकती है 20% से ज्यादा की तेजी, ये ब्रोकरेज है बुलिश",2024-04-12,,BHARTIARTL,0.0,Neutral,1
+,,"Telecom Tariff Hike: लोकसभा चुनाव के बाद बढ़ सकते हैं मोबाइल रिचार्ज के दाम, इतने हो सकते हैं महंगे",2024-04-10,,BHARTIARTL,0.0,Neutral,1
+,,"Airtel की सब्सिडियरी पर इनपुट टैक्स क्रेडिट के दावे में गड़बड़ी के चलते जुर्माना, जानिए डिटेल",2024-04-01,,BHARTIARTL,0.0,Neutral,1
+,,"Airtel के स्टॉक में तेजी, 52 वीक हाई पर पहुंचा, एक साल में दिया इतना रिटर्न",2024-03-18,,BHARTIARTL,0.0,Neutral,1
+,,"Airtel के स्टॉक में तेजी, टैरिफ हाइक को लेकर सुनील मित्तल ने दिया ये बयान",2024-02-27,,BHARTIARTL,0.0,Neutral,1
+,,"Bharti Airtel Q1 Result : जून तिमाही में 1,612 करोड़ रुपये का मुनाफा, ARPU बढ़कर हुआ 200 रुपये",2023-08-03,,BHARTIARTL,0.0,Neutral,1

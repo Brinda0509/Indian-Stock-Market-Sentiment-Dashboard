@@ -1,0 +1,391 @@
+Company Name,Symbol,Headline,Date,Original_Sentiment,Ticker,VADER_Score,VADER_Label,Is_Hindi
+Adani Enterprises Ltd.,ADANIENT,Indian billionaire Gautam Adani indicted on bribery charges in alleged bribery scheme,2024-11-20,Positive,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Bangladesh top official calls for removing â€˜secularâ€™ from Constitution, citing 90% Muslim population",2024-11-15,Neutral,ADANI,0.2023,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Nigerian communities seek $310 million from Shell, want asset sale stopped",2024-09-17,Neutral,ADANI,0.2263,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adanis Rejig Digital Strategy as SuperApp Struggles for Traction,2024-08-08,Negative,ADANI,-0.3612,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Ports Seeks More Global Footholds to Challenge China Might,2024-08-06,Neutral,ADANI,0.0772,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Jaishankar met Canada Foreign Minister amid row, says report",2023-10-12,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adanis Stick With Slum Revamp Plan Even as Dharavi Project Becomes Political Hot Potato,2024-08-09,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,EV Giant BYD Plans to Build Karachi Plant as Part of Entry into Pakistan,2024-08-19,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India reveals astronauts for its Gaganyaan space mission,2024-02-29,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Gautam Adani becomes Asia's richest man, beats Mukesh Ambani after SC's Hindenburg verdict",2024-01-08,Neutral,ADANI,0.6124,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"India: Opposition Leader Mahua Moitra Dragged, Forcibly Lifted By Delhi Cops As She Shouts â€˜How Can You Do This To An MP?'",2023-10-03,Neutral,ADANI,-0.0516,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adanis to Hike Solar Panel Output by 150% to Cut China Reliance,2024-08-07,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,BBC Documentary on Indian PM banned in India to be screened at the Australian Parliament House,2023-05-22,Neutral,ADANI,-0.4588,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India Sends Newly Assembled MALE UAVs To Israel,2024-02-05,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,'Anyone considering business deals with Iran...': US warns of sanctions after India-Iran Chabahar Port deal | India News - Times of India,2024-05-14,Neutral,ADANI,-0.1027,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Over 40 later banned sockpuppets created or revised nine related articles on the Adani family and businesses, says Wikipedia",2023-02-21,Negative,ADANI,-0.25,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Fraud claims against Adani group spark political row in India,2023-02-03,Positive,ADANI,-0.6404,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Rich list: Adani's downfall continues as Zuckerberg has best day in ten years,2023-02-06,Neutral,ADANI,0.8316,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani: India watchdog probing Hindenburg fraud allegations,2023-02-14,Neutral,ADANI,-0.7859,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group: Asia's richest man hits back at 'con' allegations,2023-01-26,Neutral,ADANI,0.5267,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Israel Prime Minister Netanyahu hands over prestigious Haifa Port to India's Adani Group,2023-01-31,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group stocks lose up to 10% after Hindenburg reveals short positions,2023-01-25,Positive,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's troubled Adani invests in bankrupt Sri Lanka,2023-02-23,Negative,ADANI,-0.765,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Adani in Crisis as Bonds Hit Distressed Levels, Stock Sale Axed | Adani companies have seen $92 billion erased from market value",2023-02-02,Neutral,ADANI,-0.7783,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asia's richest no more? Gautam Adani's wealth crashes as $90 billion wiped off his business,2023-02-02,Neutral,ADANI,0.6872,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani crisis sparks protests and arrests in India as sell-off losses top $110 billion,2023-02-06,Positive,ADANI,-0.8689,Negative,0
+Adani Enterprises Ltd.,ADANIENT,US commits $553 mln financing for Adani terminal venture at Colombo port,2023-11-08,Neutral,ADANI,0.0258,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani claims US investment firmâ€™s fraud allegations are an â€˜attack on Indiaâ€™ | Adani Group,2023-01-30,Negative,ADANI,-0.7859,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Saudi Arabia's NEOM reveals new trademarks Treyam, Aquellum and Jaumur, and partnerships with Bosch and Bain & Co.",2023-11-29,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani row rocks India's parliament amid financial contagion fears,2023-02-03,Positive,ADANI,-0.7003,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani: Kenya cancels power transmission deal with Adani following US bribery charges,2024-11-21,Positive,ADANI,-0.4588,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group to sell stake in Adani Wilmar for $2 billion,2024-12-30,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Group seeks to settle regulatory charge of shareholding violations ET reports,2024-12-03,Positive,ADANI,-0.5267,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's parliament suspended after disruptions over Adani allegations other issues,2024-12-02,Neutral,ADANI,-0.6705,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group CFO rejects bribery allegations India says no US request yet on case,2024-11-29,Positive,ADANI,-0.6597,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani wipeout hurts but won't derail foreign investor faith in India,2024-11-28,Neutral,ADANI,0.6101,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Airports to cooking oil the many businesses of India's Gautam Adani,2024-11-28,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India's parliament suspended temporarily after row over allegations against Adani group,2024-11-28,Neutral,ADANI,-0.4767,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.35%,2024-11-27,Positive,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Modi's party distances itself from India's Adani amid opposition protests,2024-11-26,Positive,ADANI,0.2023,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Fitch places some Adani bonds on negative watch after US bribery charges,2024-11-25,Positive,ADANI,-0.7003,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares rise CFO says publicly listed firms not subject to US indictment,2024-11-25,Neutral,ADANI,0.496,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Energy Solutions says no material impact from Kenya energy deal cancellation,2024-11-25,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group could find funding harder after US indictment as banks review credit,2024-11-25,Neutral,ADANI,0.3818,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian opposition parties deny any wrongdoing linked to Adani bribery allegations,2024-11-22,Negative,ADANI,0.0772,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Global banks weigh halting fresh credit to India's Adani after US indictment say sources,2024-11-22,Negative,ADANI,0.5994,Positive,0
+Adani Enterprises Ltd.,ADANIENT,What you need to know about Adani's US bribery indictment,2024-11-22,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani's Australian coal unit faces human rights complaint,2024-11-22,Negative,ADANI,-0.296,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Morning Bid Bitcoin watch party rages on as PMIs loom,2024-11-22,Negative,ADANI,-0.3182,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group firms' shares fall for second session after US indictments,2024-11-21,Positive,ADANI,0.096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks rise as chips cyclical gains help offset Ukraine war jitters,2024-11-21,Positive,ADANI,0.2516,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Kenya drops over $2.5 billion of Adani deals after US indictment,2024-11-21,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Kenya halts Adani airport deal and energy project,2024-11-21,Positive,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,US indictments scythe $27 billion off value of India's Adani Group firms,2024-11-21,Positive,ADANI,0.34,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani charged by the United States in $250m fraud scheme.,2024-11-21,Positive,ADANI,-0.6215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Himachal Pradesh: Thousands despair as India Adani plants shut down,2023-01-09,Neutral,ADANI,-0.3182,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Adani proposed coal ventures to sanctioned Myanmar military despite public vow to cut ties, leaked documents show",2023-05-04,Negative,ADANI,-0.5267,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian magnate Gautam Adani charged in US over massive bribery scheme,2024-11-21,Positive,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani firms lose $65 billion in value as U.S. short-seller battle escalates,2023-01-30,Negative,ADANI,-0.4404,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"U.S. SEC summons Gautam Adani, nephew Sagar in bribery case",2024-11-25,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Indian billionaire Gautam Adani's business empire at risk amid U.S. indictment for fraud, bribery",2024-11-25,Neutral,ADANI,-0.9096,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Billionaire Gautam Adani of India's Adani Group charged in US with bribery, fraud",2024-11-22,Negative,ADANI,-0.8808,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Power has $800 million in unpaid dues from Bangladesh,2024-08-26,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian Billionaire Adani Charged in US With Bribery; Adani Group Shares Tumble,2024-11-21,Positive,ADANI,0.1027,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani scraps $2.5 billion share sale as value of his empire collapses,2023-02-02,Neutral,ADANI,0.34,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Nvidia's results Adani's legal woes Starbucks - what's moving markets,2024-11-21,Positive,ADANI,-0.34,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Australian PM to visit India, likely to ink deal in rare earth mineral sector",2023-03-07,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,30 mins of â€˜national interestâ€™ content daily made mandatory for TV channels,2023-02-01,Positive,ADANI,0.0772,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Delhi Police seize laptops, mobile of journalists",2023-10-03,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India ready to help Bangladesh with its defence modernisation efforts: Envoy,2023-03-07,Neutral,ADANI,0.6808,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"India plans new airport for both military, civilian aircraft operations in Lakshadweep's Minicoy",2024-01-10,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Gautam Adani no longer Asia's richest person as stock rout deepens to $74 billion,2023-02-01,Positive,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"EU should crack down on India reselling Russian oil into Europe as refined fuels including diesel, the EUâ€™s high representative for foreign policy, Josep Borrell, said in an interview with the Financial Times",2023-05-16,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Morning Bid Nvidia disappoints bitcoin nears $100K,2024-11-21,Positive,ADANI,-0.3818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani stocks tumble hit lower circuit on US bribery fraud charges,2024-11-20,Neutral,ADANI,-0.9964,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slump tracking US bank rout nonfarm payrolls awaited,2023-03-09,Negative,ADANI,-0.2258,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Fed decision Icahn targeted regional lenders slip - what's moving markets,2023-05-03,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Ports recovers post-Hindenburg losses after panel gives all-clear,2023-05-23,Positive,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Pharma Stocks Lead Gains in Weak Market Smallcap Indices Trump Benchmarks,2023-06-15,Negative,ADANI,-0.328,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Nifty Only 6 Pts Away From Lifetime High Hits 2023 Peak,2023-06-19,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani slides on report of US regulatory probe over Hindenburg,2023-06-23,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Powell and Fed speakers Adani Turkish lira - what's moving markets,2023-06-23,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Nifty trades flat with positive bias Adani Ent top gainer Market snippet,2023-06-26,Positive,ADANI,0.7717,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Nifty Sensex hit new life peaks Nifty cracks past 18900 mark metals shine,2023-06-28,Neutral,ADANI,0.6597,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises weighs exiting $6 billion Wilmar venture - Bloomberg News,2023-08-09,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian banks indices fall on RBIâ€™s surprise move metals shine defy market mood,2023-08-10,Negative,ADANI,0.0732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India indices drop after 2 days of gains on poor global cues PSU banks shine,2023-08-17,Positive,ADANI,-0.6215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani family partners used offshore funds to invest in Indian group's stocks -report,2023-08-31,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise as China optimism helps ease pre-payrolls angst,2023-08-31,Neutral,ADANI,1.0,Positive,0
+Adani Enterprises Ltd.,ADANIENT,HDFC Bank anticipates massive inflows Adani stake changes - Indian market moves,2023-09-11,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Disney in talks with Adani Sun TV to sell India assets -Bloomberg News,2023-10-06,Positive,ADANI,0.1779,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Exclusive-India regulator probing ties between Adani Group and Gulf Asia fund say sources,2023-10-11,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Sun Pharma Tata Motors Adani Power among others to reveal Q2 earnings,2023-10-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,NSE announces special trading session market closures for November,2023-11-01,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian markets surge following Federal Reserve's hint at policy shift,2023-11-02,Neutral,ADANI,0.2,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises and Tata Motors set to announce Q2 results Reliance Industries plans â‚¹15000 crore bond issuance,2023-11-02,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian stock indices advance following US Federal Reserve's rate decision,2023-11-02,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group companies bolster investor wealth Ambuja Cements leads with 2.77% gain,2023-11-02,Neutral,ADANI,0.965,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slip on weak Chinese data Fed jitters persist,2023-03-08,Negative,ADANI,-0.6404,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises sees mixed results amid significant sales drop in September 2023,2023-11-03,Neutral,ADANI,-0.2772,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises rallies to 1-month high after GQG investment,2023-03-06,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Waller's spicy speech ISM chipmaker updates - what's moving markets,2023-03-03,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Stock market today Dow ekes out win as inflation cools Tesla leads growth stocks up,2023-01-27,Positive,ADANI,0.9506,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani responds to Hindenburg report but stocks continue descent,2023-01-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks sink as Fed week begins China reopens strong,2023-01-30,Negative,ADANI,0.7106,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Central bank week Adani rout Nissan gets even - what's moving markets,2023-01-30,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Dollar Bonds Rally From Record Lows After UAE Royal Boost,2023-01-30,Negative,ADANI,0.6263,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slide as Fed jitters outweigh positive Chinese data,2023-01-31,Negative,ADANI,0.5574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks lag Asian peers in January as Adani losses weigh,2023-01-31,Negative,ADANI,-0.6249,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Fed meeting Exxon record Eurozone skirts recession - what's moving markets,2023-01-31,Negative,ADANI,-0.2215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares plummet on $2.5 billion FPO cancellation SEBI probe,2023-02-01,Positive,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise as Fed fears ease India held back by Adani,2023-02-02,Neutral,ADANI,0.1228,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Weekly Comic Adani's woes are an opportunity for India,2023-02-02,Neutral,ADANI,-0.0258,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks await nonfarm payrolls Chinese markets sink,2023-02-03,Positive,ADANI,0.1027,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slammed by US-China tensions Fed jitters,2023-02-06,Neutral,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks cautiously advance as Powell talk looms,2023-02-06,Positive,ADANI,-0.1531,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks rise as Powell touts disinflation Nikkei hit by weak earnings,2023-02-07,Negative,ADANI,-0.4588,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani share rout resumes as MSCI questions free float status,2023-02-08,Negative,ADANI,0.6705,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks retreat on rate hike uncertainty China outperforms,2023-02-09,Negative,ADANI,-0.1531,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks duck Asia rout Adani buoyed by strong results,2023-02-15,Negative,ADANI,0.7106,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rattled by hawkish Fedspeak head for weekly losses,2023-02-17,Negative,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks battered by Fed fears uncertainty over Chinese recovery,2023-02-27,Positive,ADANI,-0.6369,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares see renewed selling on report of $400 million debt talks,2023-02-27,Positive,ADANI,-0.0772,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks sink as Fed fears outweigh China recovery hopes,2023-02-28,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise China rallies on positive PMI data,2023-02-28,Positive,ADANI,0.7574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks surge China lags on muted GDP outlook,2023-03-06,Neutral,ADANI,-0.1612,Negative,0
+Adani Enterprises Ltd.,ADANIENT,S&P 500 marches higher as cooling inflation cements Fed downshift bets,2023-01-27,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Exclusive-India seeks to restart stalled Adani coal imports probe,2023-11-16,Negative,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian exchanges fine major companies for listing noncompliance,2023-11-22,Positive,ADANI,0.2023,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Morning Bid Nvidia disappoints bitcoin nears $100K,2024-11-21,Positive,ADANI,-0.3818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Nvidia's results Adani's legal woes Starbucks - what's moving markets,2024-11-21,Positive,ADANI,-0.34,Negative,0
+Adani Enterprises Ltd.,ADANIENT,US indictments scythe $27 billion off value of India's Adani Group firms,2024-11-21,Positive,ADANI,0.34,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Kenya halts Adani airport deal and energy project,2024-11-21,Positive,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Kenya drops over $2.5 billion of Adani deals after US indictment,2024-11-21,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks rise as chips cyclical gains help offset Ukraine war jitters,2024-11-21,Positive,ADANI,0.2516,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group firms' shares fall for second session after US indictments,2024-11-21,Positive,ADANI,0.096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Morning Bid Bitcoin watch party rages on as PMIs loom,2024-11-22,Negative,ADANI,-0.3182,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani's Australian coal unit faces human rights complaint,2024-11-22,Negative,ADANI,-0.296,Negative,0
+Adani Enterprises Ltd.,ADANIENT,What you need to know about Adani's US bribery indictment,2024-11-22,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Global banks weigh halting fresh credit to India's Adani after US indictment say sources,2024-11-22,Negative,ADANI,0.5994,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian opposition parties deny any wrongdoing linked to Adani bribery allegations,2024-11-22,Negative,ADANI,0.0772,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group could find funding harder after US indictment as banks review credit,2024-11-25,Neutral,ADANI,0.3818,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Energy Solutions says no material impact from Kenya energy deal cancellation,2024-11-25,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares rise CFO says publicly listed firms not subject to US indictment,2024-11-25,Neutral,ADANI,0.496,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Fitch places some Adani bonds on negative watch after US bribery charges,2024-11-25,Positive,ADANI,-0.7003,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Modi's party distances itself from India's Adani amid opposition protests,2024-11-26,Positive,ADANI,0.2023,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.35%,2024-11-27,Positive,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India's parliament suspended temporarily after row over allegations against Adani group,2024-11-28,Neutral,ADANI,-0.4767,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Airports to cooking oil the many businesses of India's Gautam Adani,2024-11-28,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani wipeout hurts but won't derail foreign investor faith in India,2024-11-28,Neutral,ADANI,0.6101,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group CFO rejects bribery allegations India says no US request yet on case,2024-11-29,Positive,ADANI,-0.6597,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's parliament suspended after disruptions over Adani allegations other issues,2024-12-02,Neutral,ADANI,-0.6705,Negative,0
+Adani Enterprises Ltd.,ADANIENT,GQG Partners' stock plunges over 20% on US bribe fraud charges against India's Adani,2024-11-20,Neutral,ADANI,-0.9717,Negative,0
+Adani Enterprises Ltd.,ADANIENT,West Bengal cancels Adani Ports deep sea port project tender,2023-11-22,Positive,ADANI,-0.2263,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani stocks tumble hit lower circuit on US bribery fraud charges,2024-11-20,Neutral,ADANI,-0.9964,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian billionaire Gautam Adani accused of $250 mln bribery scheme by the US,2024-11-20,Neutral,ADANI,-0.296,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani group stocks surge following Supreme Court guidance to Sebi,2023-11-28,Negative,ADANI,0.7574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks edge higher as foreign investors return Adani shares surge,2023-11-28,Negative,ADANI,0.496,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Sensex closes up after volatile session led by Adani and energy stocks,2023-11-28,Negative,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group bonds rebound as asset managers boost investments,2024-01-24,Positive,ADANI,0.6369,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group marketing first dollar bond since Hindenburg report- BBG,2024-03-04,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani stocks fall 2% to 4% on report of US bribery probe,2024-03-18,Neutral,ADANI,-0.2,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises Ltd. receives Investment Bank Analyst Rating Update,2024-04-01,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises receives Investment Bank Analyst Rating Update,2024-04-01,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks volatile after BJP election shock,2024-06-05,Positive,ADANI,-0.3818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks lower at close of trade Nifty 50 down 0.28%,2024-06-21,Neutral,ADANI,0.128,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Hindenburg denies Indian regulator's allegations on Adani short bet,2024-07-02,Negative,ADANI,-0.4215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks Nikkei outperforms China lags on weak PMI,2024-07-02,Negative,ADANI,-0.8597,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.06%,2024-07-04,Negative,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Enterprises eyes first-ever public debt issue in coming weeks sources say,2024-07-30,Positive,ADANI,-0.3612,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 1.35%,2024-08-07,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares fall amid Hindenburg-SEBI row,2024-08-12,Negative,ADANI,0.096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,$2.4 billion wiped off Adani shares after Hindenburg allegations against regulator,2024-08-12,Negative,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Adani's Mumbai slum revamp struggles to secure land in potential setback,2024-08-26,Neutral,ADANI,-0.0258,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.14%,2024-08-28,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group denies Hindenburg comment on frozen funds in Swiss banks,2024-09-12,Neutral,ADANI,-0.4215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.65%,2024-10-28,Positive,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises receives Investment Bank Analyst Rating Update,2024-10-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Group to invest $10 billion in US energy following Trump win,2024-11-13,Neutral,ADANI,0.7096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks dip as Nvidia brings little cheer India slides amid Adani scandal,2024-11-20,Neutral,ADANI,0.0276,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,GQG Partners' stock plunges over 20% on US bribe fraud charges against India's Adani,2024-11-20,Neutral,ADANI,-0.9717,Negative,0
+Adani Enterprises Ltd.,ADANIENT,PCE Prices Intel slump Adani woe - what's moving markets,2023-01-27,Positive,ADANI,-0.6215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Microsoft's long shadow Tesla earnings Adani allegations - What's moving markets,2023-01-25,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Exclusive-India seeks to restart stalled Adani coal imports probe,2023-11-16,Negative,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises sees mixed results amid significant sales drop in September 2023,2023-11-03,Neutral,ADANI,-0.2772,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group companies bolster investor wealth Ambuja Cements leads with 2.77% gain,2023-11-02,Neutral,ADANI,0.965,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian stock indices advance following US Federal Reserve's rate decision,2023-11-02,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises and Tata Motors set to announce Q2 results Reliance Industries plans â‚¹15000 crore bond issuance,2023-11-02,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian markets surge following Federal Reserve's hint at policy shift,2023-11-02,Neutral,ADANI,0.2,Positive,0
+Adani Enterprises Ltd.,ADANIENT,NSE announces special trading session market closures for November,2023-11-01,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Sun Pharma Tata Motors Adani Power among others to reveal Q2 earnings,2023-10-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Exclusive-India regulator probing ties between Adani Group and Gulf Asia fund say sources,2023-10-11,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Disney in talks with Adani Sun TV to sell India assets -Bloomberg News,2023-10-06,Positive,ADANI,0.1779,Positive,0
+Adani Enterprises Ltd.,ADANIENT,HDFC Bank anticipates massive inflows Adani stake changes - Indian market moves,2023-09-11,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise as China optimism helps ease pre-payrolls angst,2023-08-31,Neutral,ADANI,1.0,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani family partners used offshore funds to invest in Indian group's stocks -report,2023-08-31,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India indices drop after 2 days of gains on poor global cues PSU banks shine,2023-08-17,Positive,ADANI,-0.6215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian banks indices fall on RBIâ€™s surprise move metals shine defy market mood,2023-08-10,Negative,ADANI,0.0732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises weighs exiting $6 billion Wilmar venture - Bloomberg News,2023-08-09,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Nifty Sensex hit new life peaks Nifty cracks past 18900 mark metals shine,2023-06-28,Neutral,ADANI,0.6597,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Nifty trades flat with positive bias Adani Ent top gainer Market snippet,2023-06-26,Positive,ADANI,0.7717,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Powell and Fed speakers Adani Turkish lira - what's moving markets,2023-06-23,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani slides on report of US regulatory probe over Hindenburg,2023-06-23,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Nifty Only 6 Pts Away From Lifetime High Hits 2023 Peak,2023-06-19,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Pharma Stocks Lead Gains in Weak Market Smallcap Indices Trump Benchmarks,2023-06-15,Negative,ADANI,-0.328,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Ports recovers post-Hindenburg losses after panel gives all-clear,2023-05-23,Positive,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,West Bengal cancels Adani Ports deep sea port project tender,2023-11-22,Positive,ADANI,-0.2263,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Fed decision Icahn targeted regional lenders slip - what's moving markets,2023-05-03,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian exchanges fine major companies for listing noncompliance,2023-11-22,Positive,ADANI,0.2023,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks edge higher as foreign investors return Adani shares surge,2023-11-28,Negative,ADANI,0.496,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks dip as Nvidia brings little cheer India slides amid Adani scandal,2024-11-20,Neutral,ADANI,0.0276,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian billionaire Gautam Adani accused of $250 mln bribery scheme by the US,2024-11-20,Neutral,ADANI,-0.296,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Group to invest $10 billion in US energy following Trump win,2024-11-13,Neutral,ADANI,0.7096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises receives Investment Bank Analyst Rating Update,2024-10-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.65%,2024-10-28,Positive,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group denies Hindenburg comment on frozen funds in Swiss banks,2024-09-12,Neutral,ADANI,-0.4215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.14%,2024-08-28,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Adani's Mumbai slum revamp struggles to secure land in potential setback,2024-08-26,Neutral,ADANI,-0.0258,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,$2.4 billion wiped off Adani shares after Hindenburg allegations against regulator,2024-08-12,Negative,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares fall amid Hindenburg-SEBI row,2024-08-12,Negative,ADANI,0.096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 1.35%,2024-08-07,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Enterprises eyes first-ever public debt issue in coming weeks sources say,2024-07-30,Positive,ADANI,-0.3612,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks higher at close of trade Nifty 50 up 0.06%,2024-07-04,Negative,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks Nikkei outperforms China lags on weak PMI,2024-07-02,Negative,ADANI,-0.8597,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Hindenburg denies Indian regulator's allegations on Adani short bet,2024-07-02,Negative,ADANI,-0.4215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India stocks lower at close of trade Nifty 50 down 0.28%,2024-06-21,Neutral,ADANI,0.128,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks volatile after BJP election shock,2024-06-05,Positive,ADANI,-0.3818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises receives Investment Bank Analyst Rating Update,2024-04-01,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises Ltd. receives Investment Bank Analyst Rating Update,2024-04-01,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani stocks fall 2% to 4% on report of US bribery probe,2024-03-18,Neutral,ADANI,-0.2,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group marketing first dollar bond since Hindenburg report- BBG,2024-03-04,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group bonds rebound as asset managers boost investments,2024-01-24,Positive,ADANI,0.6369,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Sensex closes up after volatile session led by Adani and energy stocks,2023-11-28,Negative,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani group stocks surge following Supreme Court guidance to Sebi,2023-11-28,Negative,ADANI,0.7574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares slide further as Hindenburg row heats up,2023-01-27,Positive,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slump tracking US bank rout nonfarm payrolls awaited,2023-03-09,Negative,ADANI,-0.2258,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises rallies to 1-month high after GQG investment,2023-03-06,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares slide further as Hindenburg row heats up,2023-01-27,Positive,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Microsoft's long shadow Tesla earnings Adani allegations - What's moving markets,2023-01-25,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks slip as Adani losses weigh Asian markets rise,2023-01-25,Positive,ADANI,-0.2019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares tumble as short seller Hindenburg alleges fraud,2023-01-24,Negative,ADANI,-0.5818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Group seeks to settle regulatory charge of shareholding violations ET reports,2024-12-03,Positive,ADANI,-0.5267,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares tumble as short seller Hindenburg alleges fraud,2023-01-24,Negative,ADANI,-0.5818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks slip as Adani losses weigh Asian markets rise,2023-01-25,Positive,ADANI,-0.2019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,PCE Prices Intel slump Adani woe - what's moving markets,2023-01-27,Positive,ADANI,-0.6215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slip on weak Chinese data Fed jitters persist,2023-03-08,Negative,ADANI,-0.6404,Negative,0
+Adani Enterprises Ltd.,ADANIENT,S&P 500 marches higher as cooling inflation cements Fed downshift bets,2023-01-27,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani responds to Hindenburg report but stocks continue descent,2023-01-30,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks surge China lags on muted GDP outlook,2023-03-06,Neutral,ADANI,-0.1612,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Waller's spicy speech ISM chipmaker updates - what's moving markets,2023-03-03,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise China rallies on positive PMI data,2023-02-28,Positive,ADANI,0.7574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks sink as Fed fears outweigh China recovery hopes,2023-02-28,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani shares see renewed selling on report of $400 million debt talks,2023-02-27,Positive,ADANI,-0.0772,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks battered by Fed fears uncertainty over Chinese recovery,2023-02-27,Positive,ADANI,-0.6369,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rattled by hawkish Fedspeak head for weekly losses,2023-02-17,Negative,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks duck Asia rout Adani buoyed by strong results,2023-02-15,Negative,ADANI,0.7106,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks retreat on rate hike uncertainty China outperforms,2023-02-09,Negative,ADANI,-0.1531,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani share rout resumes as MSCI questions free float status,2023-02-08,Negative,ADANI,0.6705,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks rise as Powell touts disinflation Nikkei hit by weak earnings,2023-02-07,Negative,ADANI,-0.4588,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asia stocks cautiously advance as Powell talk looms,2023-02-06,Positive,ADANI,-0.1531,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slammed by US-China tensions Fed jitters,2023-02-06,Neutral,ADANI,-0.4019,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks await nonfarm payrolls Chinese markets sink,2023-02-03,Positive,ADANI,0.1027,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Weekly Comic Adani's woes are an opportunity for India,2023-02-02,Neutral,ADANI,-0.0258,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks rise as Fed fears ease India held back by Adani,2023-02-02,Neutral,ADANI,0.1228,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares plummet on $2.5 billion FPO cancellation SEBI probe,2023-02-01,Positive,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Fed meeting Exxon record Eurozone skirts recession - what's moving markets,2023-01-31,Negative,ADANI,-0.2215,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian stocks lag Asian peers in January as Adani losses weigh,2023-01-31,Negative,ADANI,-0.6249,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks slide as Fed jitters outweigh positive Chinese data,2023-01-31,Negative,ADANI,0.5574,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Dollar Bonds Rally From Record Lows After UAE Royal Boost,2023-01-30,Negative,ADANI,0.6263,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Central bank week Adani rout Nissan gets even - what's moving markets,2023-01-30,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Asian stocks sink as Fed week begins China reopens strong,2023-01-30,Negative,ADANI,0.7106,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Stock market today Dow ekes out win as inflation cools Tesla leads growth stocks up,2023-01-27,Positive,ADANI,0.9506,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group to sell stake in Adani Wilmar for $2 billion,2024-12-30,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,The Misuse of Data Behind the 'Greedflation' Narrative,2024-10-29,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Global banks weigh halting fresh credit to India's Adani after US indictment, say sources",2024-11-22,Neutral,ADANI,0.5994,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Sacred Cow: Coal-hungry India Eyes Bioenergy To Cut Carbon,2024-11-08,Negative,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani of India's Adani Group indicted in US bribery case,2024-11-20,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group slams 'baseless' New York fraud and bribery charges,2024-11-21,Neutral,ADANI,-0.9096,Negative,0
+Adani Enterprises Ltd.,ADANIENT,How Indian billionaire Gautam Adani's alleged bribery scheme took off and unraveled,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Kenya Scraps Adani Deals As Ruto Attempts To Reset Presidency,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian shares set for muted start; Adani stocks in focus,2024-11-21,Neutral,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Indian opposition parties deny any wrongdoing linked to Adani bribery allegations,2024-11-22,Neutral,ADANI,0.0772,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Billionaire Gautam Adani of India's Adani Group charged in US with bribery, fraud",2024-11-20,Positive,ADANI,-0.8808,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Factbox-From Australia to Israel, Adani Group projects span the globe",2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India: How will PM Modi navigate the Adani firestorm?,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Gautam Adani: Billionaire Indian Tycoon Facing US Bribery Charges,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Bangladesh fast tracks payment to Adani Power after supply cut,2024-11-04,Positive,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian Magnate Gautam Adani Charged In US Over Massive Bribery Scheme,2024-11-20,Positive,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Gautam Adani: Billionaire Indian tycoon facing U.S. bribery charges,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Indian billionaire Adani, 3 former executives of Canadian pension fund charged in fraud scheme",2024-11-22,Neutral,ADANI,-0.8808,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India Opposition Leader Demands Tycoon Adani's Arrest After US Charges,2024-11-21,Neutral,ADANI,-0.5423,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani CFO says US charges linked to only one business contract,2024-11-25,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"US charges Indian tycoon with bribery, fraud",2024-11-21,Neutral,ADANI,-0.9096,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Sagility India raises Rs 945 crore from anchor investors ahead of IPO,2024-11-05,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Why Is Indian Tycoon Gautam Adani Facing US Bribery Charges?,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian tycoon Adani's US indictment spooks investors; bonds fall again,2024-11-22,Neutral,ADANI,-0.2,Negative,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Enterprises Tanks After Founder's US Charges,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"Gautam Adani, indicted in US, is a controversial first-generation Indian tycoon",2024-11-21,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,How Indian billionaire Gautam Adani's alleged bribery scheme took off and unravelled,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Around â‚¹2.6 lakh crore of investor wealth wiped out in Adani stocks as Adani, others indicted by US authorities",2024-11-21,Neutral,ADANI,0.4939,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"GQG Partners' stock plunges over 20% on US bribe, fraud charges against India's Adani",2024-11-21,Neutral,ADANI,-0.9717,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Energy shares fall 9% on getting bad news from MSCI,2024-11-07,Neutral,ADANI,-0.2516,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group Chairman Indicted in $250 Million Bribery Scandal,2024-11-21,Neutral,ADANI,-0.4404,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indiaâ€™s Adani Group Plans $10B Investment in American Energy,2024-11-13,Neutral,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adani Energy Solutions says no material impact from Kenya energy deal cancellation,2024-11-25,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Share Markets Highlights November 21, 2024: Adani Group stocks nosedive; Sensex, Nifty trade lower as volatility persists",2024-11-21,Neutral,ADANI,0.4019,Positive,0
+Adani Enterprises Ltd.,ADANIENT,FEDS INDICT ONE OF WORLD'S RICHEST MEN...,2024-11-21,Neutral,ADANI,0.5267,Positive,0
+Adani Enterprises Ltd.,ADANIENT,US court issues arrest warrant for one of India's richest men over '$250m bribes',2024-11-21,Neutral,ADANI,0.25,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Gautam Adani Bribery Indictment in US Highlights: Adani Green Energy, Adani Energy Solutionsâ€™ stocks end nearly 7% lower",2024-11-22,Neutral,ADANI,0.25,Positive,0
+Adani Enterprises Ltd.,ADANIENT,5 things to know before the stock market opens Thursday,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian billionaire Gautam Adani charged with fraud,2024-11-21,Neutral,ADANI,-0.8808,Negative,0
+Adani Enterprises Ltd.,ADANIENT,US indicts Gautam Adani in US$250M bribery scandal linked to Indian solar energy contracts,2024-11-21,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,How Indian billionaire Gautam Adani's alleged bribery scheme took off and unraveled,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,A billionaire titan and the former third-wealthiest person in the world was just charged in a mammoth $2 billion bribery scheme,2024-11-21,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Enterprises withdraws demerger scheme of Adani Wilmar,2024-10-29,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group Shares Tumble 20% After US Bribery Indictment,2024-11-21,Neutral,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"U.S. charges Indian billionaire with defrauding investors, hiding bribery scheme",2024-11-21,Neutral,ADANI,-0.5106,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"US charges billionaire Gautam Adani with defrauding investors, hiding plan to bribe Indian officials",2024-11-20,Positive,ADANI,-0.6249,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group shares plunge by double digits after U.S. accuses Indian billionaire Gautam Adani of bribery,2024-11-21,Neutral,ADANI,-0.0516,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani Charged With Defrauding Investors,2024-11-20,Positive,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,How Indian billionaire Gautam Adani's alleged bribery scheme took off and unraveled,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian billionaire Gautam Adani indicted in US bribery case,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Indian opposition calls for Adani probe, Modi's BJP questions timing of US indictment",2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Enterprises tanks after founder's US charges,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani CFO says US charges linked to only one business contract,2024-11-25,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani Charged For Alleged $250 Million Bribery Scheme,2024-11-20,Positive,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,S&P lowers outlook on three Adani units after US indictment of founder,2024-11-22,Neutral,ADANI,-0.128,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani vs. Hindenburg: How one of India's biggest empires descended into chaos,2024-11-21,Neutral,ADANI,-0.5719,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"As His Fortune Plummets, Billionaire Gautam Adani Denies Bribery Charge, Vows To Fight Back",2024-11-21,Neutral,ADANI,-0.6597,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Factbox-Who are the defendants charged in US indictment of Gautam Adani?,2024-11-21,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Adani Green Energy: Firm At Heart Of U.S. Fraud Charges Against One Of Indiaâ€™s Richest Men,2024-11-21,Neutral,ADANI,0.3859,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Adaniâ€™s Conglomerate Faces Scrutiny And Setbacks Around The World Amid U.S. Indictment,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Green Energy raises $600 million via 20-year bonds,2024-11-20,Positive,ADANI,0.2732,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Adaniâ€™s Fortune Sinks By $12.3 Billion As U.S. Indictment Triggers Stock Selloff,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Forbes Daily: Itâ€™s â€˜Prime Timeâ€™ For AI Scammers As Black Friday Nears,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"India's Adani says US charges 'baseless', opposition demand arrest",2024-11-21,Neutral,ADANI,-0.6124,Negative,0
+Adani Enterprises Ltd.,ADANIENT,"After an Indian billionaire was indicted in the US, his companies' stocks crashed",2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,D-Street likely to see $2.5 billion inflows as MSCI increases India weights,2024-11-08,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Adani Enterprises shares in focus after Q2 profit skyrockets 664% YoY to Rs 1,742 crore",2024-10-30,Neutral,ADANI,0.8249,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"Who is Indian billionaire Gautam Adani, charged with fraud by the US?",2024-11-21,Neutral,ADANI,-0.8808,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Kenya cancels more than $2.5bn in deals with Adani after US indictment,2024-11-21,Neutral,ADANI,-0.2263,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Why has Indian billionaire Gautam Adani been charged in a US bribery case?,2024-11-22,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian conglomerate chair Gautam Adani indicted in the US,2024-11-20,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani of India's Adani Group indicted in US bribery case,2024-11-20,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Bangladesh steps up repayments to Adani to avoid power supply cut,2024-11-04,Positive,ADANI,-0.5106,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Prosecutors say Gautam Adani's associates used Excel and PowerPoint to discuss their bribe options in a $250 million scheme,2024-11-22,Neutral,ADANI,0.296,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Hereâ€™s How Foreign Billionaires Are Reacting To Donald Trumpâ€™s Victory,2024-11-08,Negative,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Group firms' shares fall for second session after US indictments,2024-11-22,Neutral,ADANI,0.096,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Billionaire Gautam Adani-Backed Renew Exim To Buy Construction Company For $381 Million,2024-10-28,Positive,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Adani Shock Exposes ESG Fund Bosses Caught in â€˜Terribleâ€™ Bet,2024-11-25,Neutral,ADANI,-0.4767,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Phoenix #5 Brings The Marvel Superheroine Face To Face With Eternity [Exclusive Preview],2024-11-14,Neutral,ADANI,0.5106,Positive,0
+Adani Enterprises Ltd.,ADANIENT,"And with the arrest of Gautam Adani, the world is once again safe from billionaires bribing politicians. Every billionaire is glad they got the one guy doing it, as his actions made the whole group look bad [Obvious]",2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Kenya cancels deal with company of US-indicted tycoon,2024-11-22,Neutral,ADANI,-0.2263,Negative,0
+Adani Enterprises Ltd.,ADANIENT,U.S. Charges Indian Billionaire Gautam Adani With Defrauding Investors,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Kenya's president cancels major deals with Adani Group,2024-11-21,Neutral,ADANI,-0.2263,Negative,0
+Adani Enterprises Ltd.,ADANIENT,From shy school dropout to billionaire accused of bribery: Who is Gautam Adani?,2024-11-21,Neutral,ADANI,-0.4939,Negative,0
+Adani Enterprises Ltd.,ADANIENT,Indian tycoon to invest $10bn in US economy following Trump win,2024-11-14,Neutral,ADANI,0.5859,Positive,0
+Adani Enterprises Ltd.,ADANIENT,Gautam Adani: Billionaire Indian tycoon facing US bribery charges,2024-11-21,Neutral,ADANI,-0.2732,Negative,0
+Adani Enterprises Ltd.,ADANIENT,How Indian billionaire Gautam Adani's alleged bribery scheme took off and unraveled,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,[Removed],2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,[Removed],2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,Indian tycoon indicted in US for alleged fraud at home,2024-11-21,Neutral,ADANI,-0.7859,Negative,0
+Adani Enterprises Ltd.,ADANIENT,US authorities issue arrest warrant for Adani boss,2024-11-20,Positive,ADANI,-0.34,Negative,0
+Adani Enterprises Ltd.,ADANIENT,[Removed],2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,"Shares in India's Adani Group plunge 20% after US bribery, fraud indictments",2024-11-21,Neutral,ADANI,-0.5818,Negative,0
+Adani Enterprises Ltd.,ADANIENT,U.S. indicts Indian billionaire Gautam Adani in $265 million bribery scheme,2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,[Removed],2024-11-21,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,India's Adani Power cuts Bangladesh supply by over 60% on payment dispute,2024-11-08,Negative,ADANI,-0.5994,Negative,0
+Adani Enterprises Ltd.,ADANIENT,US indictment wipes out over $26bn of Indian conglomerateâ€™s value,2024-11-22,Neutral,ADANI,0.34,Positive,0
+Adani Enterprises Ltd.,ADANIENT,India's 2nd-wealthiest person charged by U.S. in $250 million bribery scheme,2024-11-21,Neutral,ADANI,-0.2023,Negative,0
+Adani Enterprises Ltd.,ADANIENT,[Removed],2024-11-22,Neutral,ADANI,0.0,Neutral,0
+Adani Enterprises Ltd.,ADANIENT,US indictment of Gautam Adani puts India Incâ€™s reputation on trial,2024-11-22,Neutral,ADANI,0.0,Neutral,0
+,,"Adani New Industries के साथ दो सब्सिडियरी कंपनियों का विलय, क्या है प्लान?",2024-10-02,,ADANI,0.0,Neutral,1
+,,"Adani Group को 6600 MW बिजली सप्लाई का मिला ठेका, कंपनी ने JSW, Torrent को पछाड़ा",2024-09-16,,ADANI,0.0,Neutral,1
+,,"Adani Group: अदाणी ने प्रोजेक्ट मैनेजमेंट सर्विसेज देने के लिए चीन में बनाई सब्सिडियरी कंपनी, जानिए डिटेल",2024-09-09,,ADANI,0.0,Neutral,1
+,,"अदाणी ग्रुप का NCD अगले 10 दिनों में लॉन्च होगा, हिंडनबर्ग रिपोर्ट फुस्स और फंड जुटाने का काम दुरुस्त",2024-08-14,,ADANI,0.0,Neutral,1
+,,"Adani Group की पेट्रोकेमिकल प्रोजेक्ट दिसंबर 2026 तक होगा शुरू, जानिए डिटेल",2024-07-29,,ADANI,0.0,Neutral,1
+,,"Adani Group: FY25 में अपनी कंपनियों में 1.3 लाख करोड़ रुपये के निवेश की योजना, CFO ने बताया पूरा प्लान",2024-06-25,,ADANI,0.0,Neutral,1
+,,"Adani Enterprises: FY25 में 80000 करोड़ रुपये के निवेश का प्लान, रिन्यूएबल एनर्जी समेत इन सेक्टर्स पर होगा फोकस",2024-05-13,,ADANI,0.0,Neutral,1
+,,"Adani Enterprises को SEBI ने भेजा कारण बताओ नोटिस, हिंडनबर्ग रिपोर्ट की जांच से जुड़ा है मामला",2024-05-02,,ADANI,0.0,Neutral,1
+,,"AdaniConneX पर आया बड़ा अपडेट, आठ ग्लोबल बैंकों से जुटाए 11,520 करोड़ रुपये",2024-04-29,,ADANI,0.0,Neutral,1
+,,"Adani Group की ये कंपनी ले सकती है 40 करोड़ डॉलर का विदेशी लोन, क्यों चाहिए इतनी बड़ी रकम?",2024-04-09,,ADANI,0.0,Neutral,1
+,,"Adani Green का अहम ऐलान, दुनिया की सबसे बड़े Renewable Energy Project के लिए होगा 1.5 लाख करोड़ का इंवेस्टमेंट",2024-04-08,,ADANI,0.2732,Positive,1
+,,"Adani Ports का शेयर अभी भी दे सकता है कमाई, ब्रोकरेज है बुलिश, जानिए नया टारगेट प्राइज",2024-04-03,,ADANI,0.0,Neutral,1
+,,Adani मामले में जांच के लिए सरकार से मदद मांगेगा SEBI,2023-05-01,,ADANI,0.0,Neutral,1
+,,CNG की सेल से बढ़ा अदाणी टोटाल गैस का नेट प्रॉफिट,2023-05-02,,ADANI,0.0,Neutral,1
+,,"Adani जांच में SEBI को मिलेगी मोहलत, तीन महीने का और मिल सकता है वक्त",2023-05-12,,ADANI,0.0,Neutral,1
+,,अदाणी मामले में नियामकीय विफलता नहीं पाई गई: SEBI,2023-05-19,,ADANI,0.0,Neutral,1
+,,"Adani की वजह से LIC को हुआ 3450 करोड़ का फायदा, जानें कैस",2023-05-22,,ADANI,0.0,Neutral,1
+,,"तीन दिन बाद नरम पड़े Adani के शेयर, Adani Enterprise 6 फीसदी कमजोर",2023-05-24,,ADANI,0.0,Neutral,1

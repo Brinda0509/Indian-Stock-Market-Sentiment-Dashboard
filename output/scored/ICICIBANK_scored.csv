@@ -1,0 +1,300 @@
+Company Name,Symbol,Headline,Date,Original_Sentiment,Ticker,VADER_Score,VADER_Label,Is_Hindi
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Canara Bank modify fixed deposit rates ahead of RBI policy announcement,2023-10-06,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2FY24 results boost stock by over 1% analysts foresee margin compression,2023-10-23,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Leads Gainers as BSE Sensex Trades Flat 2023-10-23,2023-10-23,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2 Profit Surges 36% YoY Driven by Higher Core Income,2023-10-23,Neutral,ICICIBANK,0.6404,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Tiger Logistics shares surge on ICICI Bank alliance,2023-10-18,Neutral,ICICIBANK,0.496,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex Drops 550 Points Amid Rising Oil Prices and US Interest Rates,2023-10-18,Neutral,ICICIBANK,0.4588,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian Equity Market Sees Growth Major Companies Announce Q2 FY24 Earnings,2023-10-18,Neutral,ICICIBANK,0.5818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,SBI To Issue AAA-Rated Tier-2 Bond Next Week Amid Robust Credit Demand,2023-10-26,Positive,ICICIBANK,0.7423,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian Equities Slide Amid Middle East Tensions Some Stocks Still Rise,2023-10-20,Negative,ICICIBANK,-0.2019,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks witness market cap surge in Q3 2023 led by HDFC Bank,2023-10-05,Neutral,ICICIBANK,0.2,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks post positive Q2 results amidst weak market cues,2023-10-23,Neutral,ICICIBANK,-0.0221,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-09,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Jio Financial exclusion from Nifty could lead to passive inflows for other heavyweights,2023-09-06,Neutral,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Prudential CIO credits India's market stability to growth triggers bullish domestic sentiment,2023-09-27,Neutral,ICICIBANK,0.8249,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"India's bond market to reflect ""macroeconomic realities"" following JPMorgan index inclusion",2023-09-29,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Chinese cities ease mortgage rules in bid to revive property sector,2023-08-30,Positive,ICICIBANK,0.5994,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's CEO Sandeep Bakhshi secures reappointment for another term,2023-09-11,Neutral,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian indices turn sour for 2nd day in a row Sensex sheds 350 pts banks fall,2023-08-09,Negative,ICICIBANK,-0.2,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-08-29,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Stocks in focus: KKR raises stake in Reliance Retail; ICICI Bank's CEO reappointed; L&T revises buyback price,2023-09-12,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Nifty Only 6 Pts Away From Lifetime High Hits 2023 Peak,2023-06-19,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty trades flat with positive bias Adani Ent top gainer: Market snippet,2023-06-26,Neutral,ICICIBANK,0.7717,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-06-21,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Blue Jet Healthcareâ€™s IPO Garners Strong Investor Response,2023-10-26,Positive,ICICIBANK,0.7106,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex Nifty End 4-Day Losing Streak With Marginal Gains,2023-09-25,Neutral,ICICIBANK,0.2975,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-25,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Jaiprakash Associates to cut debt with share transfer to ICICI Bank,2023-11-14,Neutral,ICICIBANK,-0.34,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-24,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's delisting plan for ICICI Securities faces investor scrutiny,2023-11-22,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and other Indian equities get buy ratings from Jefferies India,2023-11-22,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Asian stocks rebound tracking Wall Street gains dovish BOJ,2023-04-28,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Market valuation of top Indian firms sees mixed results amid global economic shifts,2023-11-13,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank to transform ICICI Securities into wholly owned subsidiary,2023-11-09,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Mitsubishi UFJ ICICI Bank and UBS set to gain from rate hikes amidst restructuring,2023-11-03,Neutral,ICICIBANK,0.7267,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Interest rates on recurring deposits see varied offerings from Indian post offices and banks,2023-11-03,Neutral,ICICIBANK,0.4588,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Middle East Conflict Triggers Decline in Indiaâ€™s Blue-Chip Stocks and Asian Markets,2023-10-23,Neutral,ICICIBANK,-0.5182,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Equity Indices Open Flat Amid Geopolitical Tensions and High US Bond Yields,2023-10-23,Neutral,ICICIBANK,-0.4019,Negative,0
+ICICI Bank Ltd.,ICICIBANK,JSW Energy and Steel See Mixed Reviews Paytm and Icici Bank Targets Raised,2023-10-23,Neutral,ICICIBANK,0.2732,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks report robust Q2 results Tata Power signs deal with Supreme Petrochem,2023-10-23,Neutral,ICICIBANK,0.9184,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Tejas Networks welcomes new CFO while several firms report Q2 profit growth,2023-10-23,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank posts record Q2 profit outperforms market expectations,2023-10-23,Neutral,ICICIBANK,0.8404,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-23,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 0.14%,2024-06-28,Negative,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.06%,2024-07-04,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2024-07-10,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank invokes pledged JAL shares surprises other lenders,2023-11-16,Neutral,ICICIBANK,0.4767,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty companies report robust earnings Coal India EPS forecast surges,2023-11-16,Neutral,ICICIBANK,0.8249,Positive,0
+ICICI Bank Ltd.,ICICIBANK,RBI penalties on financial firms exceed â‚¹50 crore in mid-November 2023,2023-11-16,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Sensex dips as banking sector struggles IT firms gain,2023-11-20,Neutral,ICICIBANK,0.4263,Positive,0
+ICICI Bank Ltd.,ICICIBANK,IDBI ICICI City Union and Axis Bank Stocks Post Gains on BSE,2023-11-22,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India's Sensex and Nifty 50 experience midday rise,2023-10-30,Neutral,ICICIBANK,0.6019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and Bank of India hike rates following RBI guidelines,2023-11-01,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,LIC shifts focus to IT firms and HDFC Bank reduces stakes in other banks,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and Bank of India raise MCLR impacting consumer loans,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank advances digital payments with QR code integration,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank exhibits steady quarter with 18% YoY loan growth,2023-10-25,Neutral,ICICIBANK,0.5818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Asian bank stocks fall across the board as U.S. rout spills over,2023-05-03,Neutral,ICICIBANK,-0.2,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Indian stocks lag Asian peers in January as Adani losses weigh,2023-01-31,Positive,ICICIBANK,-0.6249,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-05-29,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-06-09,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Street mood ahead of Fed decision: Nifty posts marginal gains metals outshine,2023-06-14,Neutral,ICICIBANK,0.5868,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty Sensex hit new life peaks Nifty cracks past 18900 mark metals shine,2023-06-28,Neutral,ICICIBANK,0.6597,Positive,0
+ICICI Bank Ltd.,ICICIBANK,M-Cap of BSE stocks records another all-time high as benchmarks rally,2023-06-30,Neutral,ICICIBANK,0.2,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sovereign Gold Bond Scheme 2023-24 - Series II opens for subscription,2023-09-13,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,RBI greenlights pre-sanctioned credit lines for UPI users,2023-09-13,Neutral,ICICIBANK,0.3818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian stock indices slump amid global market weakness and domestic concerns,2023-09-20,Neutral,ICICIBANK,-0.6215,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Axis Bank Tech Mahindra and Asian Paints to announce Q3 results this week,2023-10-23,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Secures Rs 4000 Crore via Long-Term Bond Private Placement,2023-10-03,Positive,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,HDFC Amalgamation Fuels Credit Growth Retail Loans Lead the Surge,2023-10-04,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Suzlon Energy shares rise HDFC Bank tops turnover charts in Thursday's NSE session,2023-10-05,Neutral,ICICIBANK,0.965,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-10,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India's market outlook improves CLSA raises allocation to 20% 'overweight',2023-10-11,Neutral,ICICIBANK,0.0772,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty projected to hit 21000 by December 2023 says ICICI Direct,2023-10-11,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,CLSA upgrades India's regional allocation favoring equities amid economic upswing,2023-10-11,Neutral,ICICIBANK,0.4215,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Motilal Oswal predicts strong Q2 earnings for Indian banking sector,2023-10-12,Neutral,ICICIBANK,0.7106,Positive,0
+ICICI Bank Ltd.,ICICIBANK,HDFC ICICI Canara and Bank of Baroda adjust FD rates; SBI remains unchanged,2023-10-17,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,RBI Imposes Hefty Fines on ICICI and Kotak Mahindra for Regulatory Breaches,2023-10-17,Neutral,ICICIBANK,-0.1027,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Icici Bankâ€™s Q2 Results Show Strong Performance Driven by Loan and Deposit Growth,2023-10-20,Negative,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Credit card spending in India jumps 40% in festive season,2023-11-24,Positive,ICICIBANK,0.6808,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-05-12,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Nifty projected to hit 21000 by December 2023 says ICICI Direct,2023-10-11,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks adjust lending rates ICICI and HDFC among those revising MCLR,2023-11-24,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,CLSA upgrades India's regional allocation favoring equities amid economic upswing,2023-10-11,Neutral,ICICIBANK,0.4215,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank enters top 5 in BT500 rankings under CEO Bakhshi,2023-11-27,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Afcons Infrastructure IPO closes today,2024-10-29,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Bank locker charges of SBI, ICICI Bank, HDFC Bank, PNB in November 2024",2024-11-18,Neutral,ICICIBANK,-0.2732,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Credit Card changes: YES Bank to roll out new rewards redemption limits starting next month,2024-11-08,Neutral,ICICIBANK,0.8126,Positive,0
+ICICI Bank Ltd.,ICICIBANK,NPCI allows NRIs to make UPI payments from 12 countries,2024-11-05,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Indian bankers arenâ€™t always frank about bank regulation, are they?",2024-11-14,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Bank locker charges November 2024: SBI, ICICI Bank, HDFC Bank, PNB",2024-11-04,Neutral,ICICIBANK,-0.2732,Negative,0
+ICICI Bank Ltd.,ICICIBANK,"IndusInd Bank, ICICI Prudential Life among 5 stocks with short buildup",2024-11-06,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,F&O Radar | Deploy Broken Wing strategy in ICICI Bank to gain from bullish outlook,2024-10-29,Negative,ICICIBANK,0.2772,Positive,0
+ICICI Bank Ltd.,ICICIBANK,F&O Stock Strategy: How to trade ICICI Bank and NALCO,2024-10-30,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI credit cards introduce major changes effective November 15: What you need to know,2024-10-28,Negative,ICICIBANK,0.7165,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Buy State Bank of India, target price Rs 1,000: ICICI Securities",2024-11-13,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank updates credit card charges: Cardholders need to know THESE changes that take effect from November 15,2024-11-13,Neutral,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"BFSI's 15% YoY Q2 earnings growth outperforms Nifty, handsomely. HDFC Bank, ICICI Bank among analysts top bets",2024-11-19,Positive,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"FD interest rates: Here's what is on offer by HDFC Bank, SBI, ICICI, Canara & more â€” compare who is offering most",2024-11-18,Neutral,ICICIBANK,0.4588,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Mcap of 6 of top-10 most valued firms jump Rs 1 lakh cr; State Bank, ICICI Bank top gainers",2024-11-04,Positive,ICICIBANK,0.6115,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Did ICICI Bank manage to outperform its rivals in Q2?,2024-10-28,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Diwali top picks 2024 for Muhurat Trading: 5 stocks with up to 40% upside potential,2024-10-29,Negative,ICICIBANK,0.4023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Brokerages tweak model portfolios on lackluster Q2 earnings, list top stocks to buy",2024-11-20,Positive,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Swiggy IPO subscribed 0.12 times on Day 1,2024-11-07,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"RBI retains SBI, HDFC, ICICI as India's too-big-to-fail banks",2024-11-13,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank (NYSE:IBN) Hits New 12-Month High - Still a Buy?,2024-10-29,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"ICICI Bank stock in spotlight after Q2 results. Should you buy, sell or hold?",2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"No Monday blues! Sensex rises over 300 points, Nifty above 24,200",2024-10-28,Negative,ICICIBANK,0.2003,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ACME Solar ends 12% lower on listing day,2024-11-13,Neutral,ICICIBANK,-0.296,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank (NYSE:IBN) Shares Pass Above 200 Day Moving Average â€“ Hereâ€™s Why,2024-11-18,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Swiggy IPO subscribed 1.01 times so far on Day 3,2024-11-08,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Swiggyâ€™s stock market debut: Will it deliver listing gains?,2024-11-13,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank (NYSE:IBN) Shares Gap Up - Here's Why,2024-10-28,Negative,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Shapoorji Pallonji groupâ€™s Afcons Infrastructure IPO enters Day 2,2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Lombard buys stake worth â‚¹563 crore in ITC and Axis Bank,2024-11-07,Neutral,ICICIBANK,0.2263,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Premium insurance at value prices,2024-11-22,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Adani Infra to acquire substantial stake in PSP Projects,2024-11-21,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Sensex, Nifty slump 1 pc amid unabated foreign fund outflows, weak global trends",2024-11-12,Neutral,ICICIBANK,-0.4516,Negative,0
+ICICI Bank Ltd.,ICICIBANK,"Yes Bank cuts FD interest rates: Comparing fixed deposit rates with SBI, HDFC Bank, ICICI Bank, Canara Bank, PNB",2024-11-14,Neutral,ICICIBANK,0.5423,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"New credit card, train ticket, money transfer rules, special FD deadline: 5 major changes in November 2024",2024-10-29,Negative,ICICIBANK,0.6486,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2 Results Preview: NII may jump by 11% YoY amid healthy momentum in loan book,2024-10-25,Positive,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,8 of top 10 most-valued firms lose nearly Rs 2 lakh crore in m-cap,2024-11-18,Neutral,ICICIBANK,-0.2263,Negative,0
+ICICI Bank Ltd.,ICICIBANK,We have been positive on largecaps & smallcaps for last 6-8 months; now see value in midcaps too: Varun Saboo,2024-10-30,Neutral,ICICIBANK,0.7184,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Traders Purchase Large Volume of Call Options on ICICI Bank (NYSE:IBN),2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Two Billionaire Brothers Built Indiaâ€™s Largest Discount Brokerageâ€”Now The Government Is Cracking Down,2024-11-08,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Monday Mayhem! Investors lose over Rs 3.5 lakh crore within 15 mins as Sensex, Nifty in freefall",2024-11-04,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"TCS, HDFC Bank among 10 stocks that earned upgrades in past 1 month. Check revised target prices",2024-11-04,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Busy with Diwali, Dhanteras shopping? Check THESE top credit card offers on SBI Card, ICICI Bank, Axis Bank, HDFC Bank",2024-10-28,Positive,ICICIBANK,0.5267,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"More tears likely in store for Indians as onion prices to stay high, ICICI Bank says",2024-11-14,Neutral,ICICIBANK,-0.2944,Negative,0
+ICICI Bank Ltd.,ICICIBANK,SBI and ICICI Bank are outshining the peers. Will their golden run continue?,2024-11-14,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Rural demand, government spending to drive growth in second half of FY25: ICICI Report",2024-11-14,Neutral,ICICIBANK,0.4732,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Latest FD premature withdrawal charges 2024: SBI vs HDFC Bank vs ICICI Bank vs PNB vs Yes Bank vs Bank of India,2024-11-20,Positive,ICICIBANK,0.1779,Positive,0
+ICICI Bank Ltd.,ICICIBANK,SBI delivers strong results. Is it still lagging competition?,2024-11-11,Neutral,ICICIBANK,0.496,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Sensex, Nifty rise on buying in bank stocks, positive global cues",2024-10-29,Negative,ICICIBANK,0.943,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"LIC Housing Finance accepts bids for bond reissue, bankers say",2024-11-22,Neutral,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"ICICI Bank Q2 results: Net profit surges 18.82% to â‚¹12,947.77 crore, interest income rises 18.9%",2024-10-28,Positive,ICICIBANK,0.9096,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Market bottom not yet formed; betting on HDFC Bank to outperform: Nischal Maheshwari,2024-11-21,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,HDFC Life among other insurance stocks slide up to 3.5% amid 100% FDI buzz,2024-11-19,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Demat accounts reach 17.9 crore in October, new additions decline to 35 lakh: Motilal Oswal",2024-11-11,Negative,ICICIBANK,-0.1742,Negative,0
+ICICI Bank Ltd.,ICICIBANK,From advance train ticket booking rule to new money transfer guidelines â€“ November 1 brings key changes. Check list,2024-11-01,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Top 10 companies see valuation slump â‚¹1.55 crore, Reliance Industries biggest laggard & TCS biggest gainer",2024-11-11,Neutral,ICICIBANK,0.0023,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Tesla shares up 29% in 1 week. Hereâ€™s how to buy US shares,2024-11-11,Neutral,ICICIBANK,0.5267,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Best mutual funds: These ten large-cap equity mutual funds have given alpha returns in five years. Do you own any?,2024-11-21,Neutral,ICICIBANK,0.6369,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"ICICI Bank credit card changes from November 15: Fuel surcharge waiver, lounge access, late payment fee structure",2024-11-04,Positive,ICICIBANK,0.3818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"ICICI Bank, Eicher Motors among 5 stocks with short covering",2024-11-06,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Niva Bupa Healthcare IPO subscribed 7% so far on Day 1. Check GMP, other details",2024-11-07,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Afcons Infrastructure IPO subscribed 76% so far on last day of bidding. Check GMP, details",2024-10-29,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Billionaire Gautam Adani-Backed Renew Exim To Buy Construction Company For $381 Million,2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Q2 results today: SBI, Tata Motors among 152 companies to announce earnings on Friday",2024-11-08,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Oil price swings won't derail IndiGo's long-term growth: Sandip Sabharwal,2024-10-28,Negative,ICICIBANK,0.7405,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ACME Solar Holdings IPO subscribed 47% on Day 2. GMP falls to 2%,2024-11-07,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Sagility India raises Rs 945 crore from anchor investors ahead of IPO,2024-11-05,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,D-Street likely to see $2.5 billion inflows as MSCI increases India weights,2024-11-08,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Hot Stocks: Brokerage view on ICICI Bank, IndiGo, Ola Electric and Bandhan Bank",2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.78%,2024-06-25,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Sagility India IPO allotment likely today. Check status, GMP, listing date and other details",2024-11-08,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 1.35%,2024-12-20,Neutral,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.65%,2024-10-28,Negative,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 1.48%,2024-09-20,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2024-09-04,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 0.04%,2024-09-03,Neutral,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks mixed at close of trade; Nifty 50 up 0.01%,2024-07-25,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank shares surge on strong Q3 net profit growth,2024-01-22,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex hits record high led by HDFC Bank and LIC growth,2023-12-11,Neutral,ICICIBANK,0.7818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's dismissal of Chanda Kochhar upheld by Supreme Court,2023-12-08,Neutral,ICICIBANK,0.5574,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Mumbai court dismisses Choksi's plea in ICICI property case,2023-11-29,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-11-29,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Sagility India IPO subscribed 65% on last day of bidding process so far. Check GMP, other details",2024-11-07,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Why banking & real Estate are Rahul Shahâ€™s top bets amid market correction,2024-10-29,Negative,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Prudential Multi asset completes 22 years,2024-11-11,Negative,ICICIBANK,0.3612,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Stock market update: Stocks that hit 52-week lows on NSE,2024-11-08,Neutral,ICICIBANK,-0.2023,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Stock market update: Stocks that hit 52-week lows on NSE,2024-10-30,Neutral,ICICIBANK,-0.2023,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Share price of ICICI Lombard as Sensex drops 181.74 points,2024-11-08,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"SBI MF becomes first to surpass â‚¹10 lakh crore AUM, outpacing ICICI and HDFC",2024-11-04,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Swiggy IPO subscribed 0.11 times so far on day 1 of bidding,2024-11-06,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Buy ICICI Bank, target price Rs 1,370: HDFC Securities",2024-10-29,Negative,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ACME Solar debuts today after IPO oversubscribed 2.75 times,2024-11-13,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Swiggy IPO subscribed 0.09 times so far on day 1 of bidding,2024-11-06,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"Add Grasim Industries, target price Rs 2,731: ICICI Securities",2024-11-20,Positive,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Stock market update: Stocks that hit 52-week lows on NSE,2024-11-19,Positive,ICICIBANK,-0.2023,Negative,0
+ICICI Bank Ltd.,ICICIBANK,"Buy Nazara Technologies., target price Rs 1,080: ICICI Securities",2024-11-22,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Add Sobha, target price Rs 1,628: ICICI Securities",2024-11-22,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Buy Power Grid Corporation, target price Rs 385: ICICI Securities",2024-11-13,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,S Naren on why recent equity correction isn't cause for major worry,2024-11-22,Neutral,ICICIBANK,-0.4927,Negative,0
+ICICI Bank Ltd.,ICICIBANK,"SBI, HDFC Bank and ICICI Bank continue to be identified as Domestic Systemically Important Banks: RBI",2024-11-13,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,This large and midcap equity mutual fund gave 24.4% returns in 5 years: Should you invest?,2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2 net jumps 14.5%,2024-10-28,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Lombard shares 0.53% as Sensex falls,2024-11-13,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Lombard shares 0.03% as Nifty falls,2024-11-14,Neutral,ICICIBANK,0.5994,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Laurus Labs steps up focus on R&D, lines up 62 products",2024-11-04,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Lombard shares 2.09% as Sensex rises,2024-11-22,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Revised ICICI Bank credit card rules from November 15, 2024: Check latest rules on finance charges, late payment charges and more",2024-11-12,Neutral,ICICIBANK,-0.1531,Negative,0
+ICICI Bank Ltd.,ICICIBANK,"Nifty prediction today â€“ Nov 22, 2024: Intraday trend appears bullish",2024-11-22,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"Stock markets rebound breaking bearish momentum on buying in ICICI Bank, firm trend in Asian peers",2024-10-28,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,"ICICI Bank Q2 PAT rises 15% to â‚¹11,746 crore on strong core income growth",2024-10-28,Positive,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Stock to buy today: ICICI Securities (â‚¹882.30): BUY,2024-10-30,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Market slowdown driven by tepid Q2 earnings and election-linked spending cuts: Hiren Ved,2024-10-28,Negative,ICICIBANK,-0.296,Negative,0
+ICICI Bank Ltd.,ICICIBANK,RBI sets SGB 2015-I tranche redemption at Rs 6132 per unit,2023-11-24,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank shares surge on strong Q3 net profit growth,2024-01-22,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,RBI sets SGB 2015-I tranche redemption at Rs 6132 per unit,2023-11-24,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Indian stocks lag Asian peers in January as Adani losses weigh,2023-01-31,Positive,ICICIBANK,-0.6249,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-05-29,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-06-09,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Street mood ahead of Fed decision: Nifty posts marginal gains metals outshine,2023-06-14,Neutral,ICICIBANK,0.5868,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty Sensex hit new life peaks Nifty cracks past 18900 mark metals shine,2023-06-28,Neutral,ICICIBANK,0.6597,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Asian bank stocks fall across the board as U.S. rout spills over,2023-05-03,Neutral,ICICIBANK,-0.2,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-05-12,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,M-Cap of BSE stocks records another all-time high as benchmarks rally,2023-06-30,Neutral,ICICIBANK,0.2,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-10,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Sovereign Gold Bond Scheme 2023-24 - Series II opens for subscription,2023-09-13,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,RBI greenlights pre-sanctioned credit lines for UPI users,2023-09-13,Neutral,ICICIBANK,0.3818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian stock indices slump amid global market weakness and domestic concerns,2023-09-20,Neutral,ICICIBANK,-0.6215,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and other Indian equities get buy ratings from Jefferies India,2023-11-22,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's delisting plan for ICICI Securities faces investor scrutiny,2023-11-22,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Credit card spending in India jumps 40% in festive season,2023-11-24,Positive,ICICIBANK,0.6808,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks adjust lending rates ICICI and HDFC among those revising MCLR,2023-11-24,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,HDFC Amalgamation Fuels Credit Growth Retail Loans Lead the Surge,2023-10-04,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank enters top 5 in BT500 rankings under CEO Bakhshi,2023-11-27,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-11-29,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Mumbai court dismisses Choksi's plea in ICICI property case,2023-11-29,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Jaiprakash Associates to cut debt with share transfer to ICICI Bank,2023-11-14,Neutral,ICICIBANK,-0.34,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's dismissal of Chanda Kochhar upheld by Supreme Court,2023-12-08,Neutral,ICICIBANK,0.5574,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank shares surge on strong Q3 net profit growth,2024-01-22,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks mixed at close of trade; Nifty 50 up 0.01%,2024-07-25,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 0.04%,2024-09-03,Neutral,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2024-09-04,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 1.48%,2024-09-20,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.65%,2024-10-28,Negative,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 1.35%,2024-12-20,Neutral,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India's market outlook improves CLSA raises allocation to 20% 'overweight',2023-10-11,Neutral,ICICIBANK,0.0772,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex hits record high led by HDFC Bank and LIC growth,2023-12-11,Neutral,ICICIBANK,0.7818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Asian stocks rebound tracking Wall Street gains dovish BOJ,2023-04-28,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Market valuation of top Indian firms sees mixed results amid global economic shifts,2023-11-13,Neutral,ICICIBANK,0.2023,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Mitsubishi UFJ ICICI Bank and UBS set to gain from rate hikes amidst restructuring,2023-11-03,Neutral,ICICIBANK,0.7267,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-02,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Secures Rs 4000 Crore via Long-Term Bond Private Placement,2023-10-03,Positive,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Motilal Oswal predicts strong Q2 earnings for Indian banking sector,2023-10-12,Neutral,ICICIBANK,0.7106,Positive,0
+ICICI Bank Ltd.,ICICIBANK,HDFC ICICI Canara and Bank of Baroda adjust FD rates; SBI remains unchanged,2023-10-17,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,RBI Imposes Hefty Fines on ICICI and Kotak Mahindra for Regulatory Breaches,2023-10-17,Neutral,ICICIBANK,-0.1027,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank to transform ICICI Securities into wholly owned subsidiary,2023-11-09,Neutral,ICICIBANK,0.296,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Icici Bankâ€™s Q2 Results Show Strong Performance Driven by Loan and Deposit Growth,2023-10-20,Negative,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-23,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank posts record Q2 profit outperforms market expectations,2023-10-23,Neutral,ICICIBANK,0.8404,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Tejas Networks welcomes new CFO while several firms report Q2 profit growth,2023-10-23,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks report robust Q2 results Tata Power signs deal with Supreme Petrochem,2023-10-23,Neutral,ICICIBANK,0.9184,Positive,0
+ICICI Bank Ltd.,ICICIBANK,JSW Energy and Steel See Mixed Reviews Paytm and Icici Bank Targets Raised,2023-10-23,Neutral,ICICIBANK,0.2732,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Equity Indices Open Flat Amid Geopolitical Tensions and High US Bond Yields,2023-10-23,Neutral,ICICIBANK,-0.4019,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Middle East Conflict Triggers Decline in Indiaâ€™s Blue-Chip Stocks and Asian Markets,2023-10-23,Neutral,ICICIBANK,-0.5182,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Interest rates on recurring deposits see varied offerings from Indian post offices and banks,2023-11-03,Neutral,ICICIBANK,0.4588,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Axis Bank Tech Mahindra and Asian Paints to announce Q3 results this week,2023-10-23,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Nifty trades flat with positive bias Adani Ent top gainer: Market snippet,2023-06-26,Neutral,ICICIBANK,0.7717,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Nifty Only 6 Pts Away From Lifetime High Hits 2023 Peak,2023-06-19,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-25,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank exhibits steady quarter with 18% YoY loan growth,2023-10-25,Neutral,ICICIBANK,0.5818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-24,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank advances digital payments with QR code integration,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and Bank of India raise MCLR impacting consumer loans,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,LIC shifts focus to IT firms and HDFC Bank reduces stakes in other banks,2023-11-03,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank and Bank of India hike rates following RBI guidelines,2023-11-01,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India's Sensex and Nifty 50 experience midday rise,2023-10-30,Neutral,ICICIBANK,0.6019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,IDBI ICICI City Union and Axis Bank Stocks Post Gains on BSE,2023-11-22,Neutral,ICICIBANK,0.34,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex dips as banking sector struggles IT firms gain,2023-11-20,Neutral,ICICIBANK,0.4263,Positive,0
+ICICI Bank Ltd.,ICICIBANK,RBI penalties on financial firms exceed â‚¹50 crore in mid-November 2023,2023-11-16,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Nifty companies report robust earnings Coal India EPS forecast surges,2023-11-16,Neutral,ICICIBANK,0.8249,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-06-21,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank invokes pledged JAL shares surprises other lenders,2023-11-16,Neutral,ICICIBANK,0.4767,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2024-07-10,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.06%,2024-07-04,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks lower at close of trade; Nifty 50 down 0.14%,2024-06-28,Negative,ICICIBANK,0.128,Positive,0
+ICICI Bank Ltd.,ICICIBANK,India stocks higher at close of trade; Nifty 50 up 0.78%,2024-06-25,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank shares surge on strong Q3 net profit growth,2024-01-22,Neutral,ICICIBANK,1.0,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Blue Jet Healthcareâ€™s IPO Garners Strong Investor Response,2023-10-26,Positive,ICICIBANK,0.7106,Positive,0
+ICICI Bank Ltd.,ICICIBANK,SBI To Issue AAA-Rated Tier-2 Bond Next Week Amid Robust Credit Demand,2023-10-26,Positive,ICICIBANK,0.7423,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Suzlon Energy shares rise HDFC Bank tops turnover charts in Thursday's NSE session,2023-10-05,Neutral,ICICIBANK,0.965,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2FY24 results boost stock by over 1% analysts foresee margin compression,2023-10-23,Neutral,ICICIBANK,0.4019,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Stocks in focus: KKR raises stake in Reliance Retail; ICICI Bank's CEO reappointed; L&T revises buyback price,2023-09-12,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks post positive Q2 results amidst weak market cues,2023-10-23,Neutral,ICICIBANK,-0.0221,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank receives Investment Bank Analyst Rating Update,2023-08-29,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Indian indices turn sour for 2nd day in a row Sensex sheds 350 pts banks fall,2023-08-09,Negative,ICICIBANK,-0.2,Negative,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank's CEO Sandeep Bakhshi secures reappointment for another term,2023-09-11,Neutral,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Jio Financial exclusion from Nifty could lead to passive inflows for other heavyweights,2023-09-06,Neutral,ICICIBANK,0.3182,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Chinese cities ease mortgage rules in bid to revive property sector,2023-08-30,Positive,ICICIBANK,0.5994,Positive,0
+ICICI Bank Ltd.,ICICIBANK,"India's bond market to reflect ""macroeconomic realities"" following JPMorgan index inclusion",2023-09-29,Negative,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Prudential CIO credits India's market stability to growth triggers bullish domestic sentiment,2023-09-27,Neutral,ICICIBANK,0.8249,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Ltd receives Investment Bank Analyst Rating Update,2023-10-09,Neutral,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Indian Equities Slide Amid Middle East Tensions Some Stocks Still Rise,2023-10-20,Negative,ICICIBANK,-0.2019,Negative,0
+ICICI Bank Ltd.,ICICIBANK,Indian Equity Market Sees Growth Major Companies Announce Q2 FY24 Earnings,2023-10-18,Neutral,ICICIBANK,0.5818,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex Drops 550 Points Amid Rising Oil Prices and US Interest Rates,2023-10-18,Neutral,ICICIBANK,0.4588,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Q2 Profit Surges 36% YoY Driven by Higher Core Income,2023-10-23,Neutral,ICICIBANK,0.6404,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Tiger Logistics shares surge on ICICI Bank alliance,2023-10-18,Neutral,ICICIBANK,0.496,Positive,0
+ICICI Bank Ltd.,ICICIBANK,Sensex Nifty End 4-Day Losing Streak With Marginal Gains,2023-09-25,Neutral,ICICIBANK,0.2975,Positive,0
+ICICI Bank Ltd.,ICICIBANK,ICICI Bank Canara Bank modify fixed deposit rates ahead of RBI policy announcement,2023-10-06,Positive,ICICIBANK,0.0,Neutral,0
+ICICI Bank Ltd.,ICICIBANK,Indian banks witness market cap surge in Q3 2023 led by HDFC Bank,2023-10-05,Neutral,ICICIBANK,0.2,Positive,0
