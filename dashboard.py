@@ -105,12 +105,12 @@ components.html("<script>(function(){document.body.style.zoom='0.85';})();</scri
 
 # ── Paths & defaults ──────────────────────────────────────────────────────────
 BASE = r"output"
-OUT  = os.path.join(BASE, "output")
-PATHS = {"merged":  os.path.join(OUT,"merged"),
-         "signals": os.path.join(OUT,"signals"),
-         "summary": os.path.join(OUT,"summary"),
-         "scored":  os.path.join(OUT,"scored")}
-
+PATHS = {
+    "merged": os.path.join(BASE, "merged"),
+    "signals": os.path.join(BASE, "signals"),
+    "summary": os.path.join(BASE, "summary"),
+    "scored": os.path.join(BASE, "scored")
+}
 AXIS = dict(gridcolor='#0D1520', linecolor='#0D1520',
             tickfont=dict(size=7, color='#4B6B8B'), showgrid=True)
 PLOT = dict(paper_bgcolor='#0D1520', plot_bgcolor='#0D1520',
