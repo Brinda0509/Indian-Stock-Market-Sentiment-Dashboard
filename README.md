@@ -111,7 +111,7 @@ Shows quick summary metrics like:
 ---
 ## Why Weekly Analysis?
 
-Weekly aggregation reduces daily noise and gives a clearer view of sentiment-price relationships.  
+- Weekly aggregation reduces daily noise and gives a clearer view of sentiment-price relationships.  
 It also makes lead-lag analysis more reliable.
 ---
 ## India-Specific Part
@@ -132,7 +132,7 @@ This project is focused on the Indian market, so it includes signals that are es
 ---
 ## Example Insight
 
-For a stock like Reliance, the dashboard can show how sentiment moved over time, where broker outage panic appeared, and whether sentiment led or lagged price movement.
+- For a stock like Reliance, the dashboard can show how sentiment moved over time, where broker outage panic appeared, and whether sentiment led or lagged price movement.
 ---
 ## License
 
